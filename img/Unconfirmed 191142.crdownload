@@ -1,0 +1,1321 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ar-aa" lang="ar-aa" dir="rtl">
+        <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                <!-- head -->
+        <meta charset="utf-8" />
+	<base href="https://www.mans.edu.eg/" />
+	<meta name="keywords" content="جامعة المنصورة تعتبر من الجامعات الذكية التي تدير جميع الاجراءات داخل الجامعة بصورة الكترونية وأيضا تقدم العديد من الخدمات بشكل الكتروني لكل من 
+الطلاب - هيئة التدريس - العاملين - الخريجين - طلاب الدراسات العليا" />
+	<meta name="description" content="جامعة المنصورة تعتبر من الجامعات الذكية التي تدير جميع الاجراءات داخل الجامعة بصورة الكترونية وأيضا تقدم العديد من الخدمات بشكل الكتروني لكل من
+الطلاب - هيئة التدريس - العاملين - الخريجين - طلاب الدراسات العليا" />
+	<title>الصفحة الرئيسية - جامعة المنصورة - جامعة المنصورة - مصر</title>
+	<link href="https://www.mans.edu.eg/" rel="alternate" hreflang="ar-AA" />
+	<link href="https://www.mans.edu.eg/en/" rel="alternate" hreflang="en-GB" />
+	<link href="https://www.mans.edu.eg/fr/" rel="alternate" hreflang="fr-FR" />
+	<link href="http://www.mans.edu.eg/" rel="canonical" />
+	<link href="/images/favmans.png" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="https://www.mans.edu.eg/component/search/?id=98&amp;Itemid=666&amp;format=opensearch" rel="search" title="البحث جامعة المنصورة - مصر" type="application/opensearchdescription+xml" />
+	<link href="/components/com_sppagebuilder/assets/css/animate.min.css?0808dd08ad62f5774e5f045e2ce6d08b" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/sppagebuilder.css?0808dd08ad62f5774e5f045e2ce6d08b" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/js_slider.css" rel="stylesheet" />
+	<link href="//fonts.googleapis.com/css?family=Open+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap" rel="stylesheet" />
+	<link href="//fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap" rel="stylesheet" />
+	<link href="https://www.mans.edu.eg/media/com_acym/css/module.min.css?v=730" rel="stylesheet" />
+	<link href="/media/com_sppagebuilder/css/page-98.css" rel="stylesheet" />
+	<link href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" rel="stylesheet" />
+	<link href="/templates/mans_ar/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="/templates/mans_ar/css/font-awesome.min.css" rel="stylesheet" />
+	<link href="/templates/mans_ar/css/fa-v4-shims.css" rel="stylesheet" />
+	<link href="/templates/mans_ar/css/legacy.css" rel="stylesheet" />
+	<link href="/templates/mans_ar/css/template.css" rel="stylesheet" />
+	<link href="/templates/mans_ar/css/bootstrap-rtl.min.css" rel="stylesheet" />
+	<link href="/templates/mans_ar/css/rtl.css" rel="stylesheet" />
+	<link href="/templates/mans_ar/css/presets/preset1.css" rel="stylesheet" class="preset" />
+	<link href="https://www.mans.edu.eg/modules/mod_jf_sidebuttons/assets/jf_sb.min.css" rel="stylesheet" />
+	<link href="/media/coalawebtraffic/modules/traffic/counter-themes/users/css/cw-visitors.css" rel="stylesheet" />
+	<link href="/modules/mod_ap_smart_layerslider/assets/css/slider-pro.css" rel="stylesheet" />
+	<link href="/modules/mod_ap_smart_layerslider/tmpl/themes/style5/style5.css" rel="stylesheet" />
+	<link href="/media/jui/css/chosen.css?7b07a5b317103b914e12413eafb476bf" rel="stylesheet" />
+	<style>
+.sppb-addon-latest-posts .latest-post .latest-post-inner div.img-wrapper{
+height:150px;
+display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.videos-part a{
+height:201px;
+width:350px;
+display:block;
+opacity:0;
+}
+.videos-part .sppb-addon-overlay-image-content{
+padding:0;
+}
+
+
+/*buttons section*/
+#section-buttons .sppb-container-inner{
+margin-top:-272px;
+}
+@media screen and (min-width: 768px) and (max-width: 992px) {
+#section-buttons .sppb-container-inner {
+    margin-top: -57px;
+}
+}
+/*module subscription*/ 
+.acym_form{
+width:100%;
+}
+.acym_introtext{
+    margin: 0 0 18px;
+}
+.acysubbuttons{
+padding:0 18px 0;
+}
+
+/*slideshow student testimonial*/
+@media (max-width: 767px) {
+/*
+.sp-slider .sppb-sp-slider-image.avatar{
+margin: 60px auto 0px auto !important;
+}
+.sp-slider .sppb-sp-slider-image.avatar img {
+    width: 163px !important;
+}
+.sp-slider .sppb-sp-slider-image.icon{
+margin:49px 0px 0px 55px !important;
+}
+.sp-slider .sppb-sp-slider-image.icon img {
+    width: 60px !important;
+}
+*/
+}@media screen and (min-width: 992px) and (max-width: 1199px){.columns-3{width:33.3333%;}}@media screen and (min-width: 768px) and (max-width: 991px){.columns-3{width:50%}}body.site {background-color:#ffffff;}#sp-section-1{ background-color:#003940;color:#ffffff;padding:5px 0 0 0; }#sp-section-1 a{color:#ebebeb;}#sp-header{ color:#005965; }#sp-header a{color:#000000;}#sp-header a:hover{color:#ff6b63;}#sp-footer{ background-color:#363839;color:#b0b0b0;padding:0 0 0 0;margin:0 0 0 0; }#sp-footer a{color:#d6d6d6;}#sp-footer a:hover{color:#f0f0f0;}#sp-section-9{ background-color:#db2828;color:#000000; }#sp-section-9 a{color:#000000;}#sp-section-9 a:hover{color:#000000;}.offcanvas-menu{}.offcanvas-menu ul li a{color: }.offcanvas-menu .offcanvas-inner .search input.inputbox{border-color: }#sp-header .top-search-wrapper .icon-top-wrapper,#sp-header .top-search-wrapper .icon-top-wrapper >i:before,.sp-megamenu-wrapper > .sp-megamenu-parent >li >a,.sp-megamenu-wrapper #offcanvas-toggler,#sp-header .modal-login-wrapper span,#sp-header .ap-my-account i.pe-7s-user,#sp-header .ap-my-account .info-text,#sp-header .mod-languages,#sp-header .logo,#cart-menu,#cd-menu-trigger,.cd-cart,.cd-cart > i{height:90px;line-height:90px;}.total_products{top:calc(90px / 2 - 22px);}#sp-header,.transparent-wrapper{height:90px;}.transparent,.sticky-top{}#sp-header #sp-menu .sp-megamenu-parent >li >a,#sp-header #sp-menu .sp-megamenu-parent li .sp-dropdown >li >a,#sp-header .top-search-wrapper .icon-top-wrapper i,#sp-header #cd-menu-trigger i,#sp-header .cd-cart i,#sp-header .top-search-wrapper{}#sp-header #sp-menu .sp-dropdown .sp-dropdown-inner{}#sp-header #sp-menu .sp-dropdown .sp-dropdown-inner li.sp-menu-item >a,#sp-header #sp-menu .sp-dropdown .sp-dropdown-inner li.sp-menu-item.separator >a,#sp-header #sp-menu .sp-dropdown .sp-dropdown-inner li.sp-menu-item.separator >a:hover,#sp-header .sp-module-content ul li a,#sp-header .vm-menu .vm-title{}.sticky .logo,.sticky #cart-menu,.sticky #cd-menu-trigger,.sticky .cd-cart,.sticky .cd-cart >i,.sticky .menu-is-open >i,#sp-header.sticky .modal-login-wrapper span,#sp-header.sticky .ap-my-account i.pe-7s-user,#sp-header.sticky .ap-my-account .info-text,#sp-header.sticky .mod-languages,#sp-header.sticky .top-search-wrapper .icon-top-wrapper,#sp-header.sticky .top-search-wrapper .icon-top-wrapper >i:before,.sticky .sp-megamenu-wrapper > .sp-megamenu-parent >li >a,.sticky .sp-megamenu-wrapper #offcanvas-toggler,.sticky #sp-logo a.logo{ height:70px;line-height:70px; } .sticky .total_products{top: calc(70px / 2 - 22px);} .sticky .sticky__wrapper{background:#005965; height:70px; -webkit-animation-name:fade-in-down;animation-name:fade-in-down;}.sticky .sticky__wrapper .sp-sticky-logo {height:70px;}.sticky.onepage .sticky__wrapper,.sticky.white .sticky__wrapper,.sticky.transparent .sticky__wrapper{background:#005965;} #sp-header.sticky #sp-menu .sp-megamenu-wrapper .sp-megamenu-parent >li >a,#sp-header.sticky .top-search-wrapper,#sp-header.sticky .top-search-wrapper .icon-top-wrapper i,#sp-header.sticky #cd-menu-trigger i,#sp-header.sticky .cd-cart i{color:#ffffff;}#sp-header.sticky #sp-menu .sp-megamenu-wrapper .sp-megamenu-parent >li.active>a,#sp-header.sticky #sp-menu .sp-megamenu-wrapper .sp-megamenu-parent >li.current-item>a,#sp-header.sticky #sp-menu .sp-megamenu-wrapper .sp-megamenu-parent >li.sp-has-child.active>a,.sticky #offcanvas-toggler >i,.sticky #offcanvas-toggler >i:hover{color:#f47363;} ul.sigProPolaroids {
+      padding: 40px 20px!important;
+  }
+
+#sp-header #sp-menu .sp-megamenu-parent .sp-dropdown .sp-dropdown-inner {
+    background: #005965;}
+#fading-header #sp-header{
+    background: #005965;}
+#sp-header #sp-menu .sp-megamenu-parent >li.current-item.active>a, #sp-header #sp-menu .sp-megamenu-parent >li.sp-has-child.active>a {
+   color: #005965;}
+#sp-top-bar{
+padding-top:10px;
+}
+.mod-splms-course-search .splms-coursesearch-input{
+    background: #fff;
+    padding: 5px 25px;
+    min-height: 60px;
+    border-radius: 50px;
+    font-size: 16px;
+    border: none;}
+.btn-primary, .button, .btn-readmore, .sppb-btn-primary, .vm-button-correct{background-color: #e83d34;}
+
+.sp-megamenu-parent {
+     z-index: 2;
+}
+a#scroll-top >i{    background: #e83d34; color: #fff;}
+#sp-header .logo{
+background-color: white
+}
+#sp-header:before {
+    z-index: 50;
+    height: 15px !important;
+}
+.sp-megamenu-parent >li >a{font-size: 18px;}
+
+#sp-cookie-consent.position-bottom_left{direction: ltr;}
+
+
+.form-horizontal .control-label{
+text-align:right;
+float:right;
+}
+.form-horizontal .controls {
+margin-right: 180px;
+margin-left:0;
+}
+.form-horizontal .controls input, textarea {
+border: 1px solid #ced4da !important;
+border-radius: .25rem !important;
+background:#fff;
+}
+.form-horizontal .controls textarea{
+height:50px;
+}
+@media screen and (min-width: 1199px){
+.form-horizontal .controls input, textarea {
+width: 70%;
+}
+}
+
+
+/*archive articles page selectbox for numbers*/
+.input-mini {
+    width: 70px !important;
+}
+#filter-search{
+width:220px;
+margin-bottom:10px;
+}
+
+/*buttons section*/
+
+#section-buttons .sppb-container-inner{
+    background: #ffffff;
+    box-shadow: 0px 0px 12px 0 #afacac;
+    border-radius: 10px;
+    border-top-left-radius:14px;
+    border-bottom-left-radius:14px;
+   
+}
+/*
+#section-buttons [class*=sppb-col-]{
+    padding:0;
+}*/
+#sp-slider{
+    background-color:#eaeaea;
+}
+.left-buttons-section{
+    border-top-left-radius:10px;
+    border-bottom-left-radius:10px;
+}
+.right-buttons-section .sppb-addon-content .sppb-btn{
+    margin: 0;
+    padding: 2px 12px;
+    font-size: 16px;
+}
+
+/*@media screen and (min-width: 320px) and (max-width: 767px) {
+    #section-buttons .sppb-container-inner{
+        margin-top: 0px;
+    }
+}*/
+@media (max-width: 767px) {
+    #section-buttons .sppb-container-inner{
+        margin-top: 0px;
+    }
+}
+@media (max-width: 417px) {
+    .left-buttons-section a {
+       margin:0 !important;
+       padding: 0 !important;
+       width: 70px !important;
+    }
+    .left-buttons-section a .sppb-icons-label-text {
+       font-size: 15px !important;
+    }
+}
+@media (max-width: 991px) {
+     .right-buttons-section{
+padding:20px 0 !important;
+}
+    .left-buttons-section{
+       border-top-left-radius:0px;
+       border-bottom-right-radius:10px;
+    }
+#sp-top1{
+text-align:center;
+}
+.offcanvas .off-canvas-menu-wrap {
+    -webkit-transform: none;
+    transform: none;
+}
+
+
+}
+
+
+/*langiage switcher as flags*/
+.sp-module-content .mod-languages ul.lang-inline {
+    border-left: none;
+    border-right: none;
+}background-color: #f00;
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"3295ae02b390a5f75f16f0449f47eebb","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/jui/js/jquery.min.js?7b07a5b317103b914e12413eafb476bf"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?7b07a5b317103b914e12413eafb476bf"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?7b07a5b317103b914e12413eafb476bf"></script>
+	<script src="/components/com_sppagebuilder/assets/js/jquery.parallax.js?0808dd08ad62f5774e5f045e2ce6d08b"></script>
+	<script src="/components/com_sppagebuilder/assets/js/sppagebuilder.js?0808dd08ad62f5774e5f045e2ce6d08b" defer></script>
+	<script src="/templates/mans_ar/sppagebuilder/addons/pie_progress/js/jquery.easypiechart.min.js"></script>
+	<script src="/components/com_sppagebuilder/assets/js/js_slider.js"></script>
+	<script src="https://www.mans.edu.eg/media/com_acym/js/module.min.js?v=730" defer></script>
+	<script src="/templates/mans_ar/js/bootstrap.min.js"></script>
+	<script src="/templates/mans_ar/js/SmoothScroll-1.4.10.js"></script>
+	<script src="/templates/mans_ar/js/jquery.easing.min.js"></script>
+	<script src="/templates/mans_ar/js/main.js"></script>
+	<script src="/media/jui/js/chosen.jquery.min.js?7b07a5b317103b914e12413eafb476bf"></script>
+	<script src="/media/system/js/core.js?7b07a5b317103b914e12413eafb476bf"></script>
+	<script>
+;(function ($) {
+	$.ajaxSetup({
+		headers: {
+			'X-CSRF-Token': Joomla.getOptions('csrf.token')
+		}
+	});
+})(jQuery);
+        if(typeof acymModule === 'undefined'){
+            var acymModule = [];
+			acymModule['emailRegex'] = /^[a-z0-9!#$%&\'*+\/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&\'*+\/=?^_`{|}~-]+)*\@([a-z0-9-]+\.)+[a-z0-9]{2,20}$/i;
+			acymModule['NAMECAPTION'] = 'Name';
+			acymModule['NAME_MISSING'] = 'الرجاء ادخال اسمك';
+			acymModule['EMAILCAPTION'] = 'Email';
+			acymModule['VALID_EMAIL'] = 'الرجاء ادخال عنوان بريد الكتروني صحيح';
+			acymModule['CAPTCHA_MISSING'] = 'الرجاء ادخال الكود الأمني الظاهر بالصورة';
+			acymModule['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
+            acymModule['ACCEPT_TERMS'] = 'Please check the Terms and Conditions / Privacy policy';
+        }
+		var sp_preloader = "0";var sp_offanimation = "default";var stickyHeaderVar = "1";var stickyHeaderAppearPoint = 250;jQuery(document).ready(function(){
+jQuery('<div>', {
+    id: 'tooltip-gspeech',
+    class: 'tooltip-gspeech',
+    style: 'display:none;position: fixed;    bottom: 66px;    z-index: 999;    right: 10px;    background: #005965; color:#ffffff;    padding: 8px;    font-size: 17px;    border-radius: 7px;'
+}).text("تستطيع تحديد أي نص لسماعه.").appendTo('body');
+
+jQuery( "body" ).on( "hover","#userwayAccessibilityIcon", function() {
+jQuery('#tooltip-gspeech').toggle();
+});
+
+});
+
+	jQuery(function ($) {
+		initChosen();
+		$("body").on("subform-row-add", initChosen);
+
+		function initChosen(event, container)
+		{
+			container = container || document;
+			$(container).find(".advancedSelect").chosen({"disable_search_threshold":10,"search_contains":true,"allow_single_deselect":true,"placeholder_text_multiple":"\u0623\u062f\u062e\u0644 \u0623\u0648 \u062d\u062f\u062f \u0645\u0646 \u0627\u0644\u062e\u064a\u0627\u0631\u062a","placeholder_text_single":"\u062d\u062f\u062f \u062e\u064a\u0627\u0631","no_results_text":"\u0644\u0627\u064a\u0648\u062c\u062f \u0646\u062a\u0627\u0626\u062c \u0645\u0634\u0627\u0628\u0647\u0629"});
+		}
+	});
+	
+	</script>
+	<meta property="og:title" content="الصفحة الرئيسية - جامعة المنصورة" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://www.mans.edu.eg/" />
+	<meta property="fb:app_id" content="Mansoura University" />
+	<meta property="og:site_name" content="جامعة المنصورة - مصر" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="جامعة المنصورة - مصر" />
+	<link href="https://www.mans.edu.eg/" rel="alternate" hreflang="x-default" />
+	<script src="/modules/mod_ap_smart_layerslider/assets/js/jquery.sliderPro.packed.js" type="text/javascript"></script>
+
+                    <link rel="stylesheet" href="/plugins/system/gspeech/includes/css/gspeech.css" type="text/css" />
+<link rel="stylesheet" href="/plugins/system/gspeech/includes/css/the-tooltip.css" type="text/css" />
+<script src="/plugins/system/gspeech/includes/js/jquery-1.8.1.min.js" type="text/javascript"></script>
+<script src="/plugins/system/gspeech/includes/js/color.js" type="text/javascript"></script>
+<script src="/plugins/system/gspeech/includes/js/jQueryRotate.2.1.js" type="text/javascript"></script>
+<script src="/plugins/system/gspeech/includes/js/easing.js" type="text/javascript"></script>
+<script src="/plugins/system/gspeech/includes/js/mediaelement-and-player.min.js" type="text/javascript"></script>
+<script src="/plugins/system/gspeech/includes/js/gspeech.js?version=2.6.0" type="text/javascript"></script>
+<script src="/plugins/system/gspeech/includes/js/gspeech_pro.js?version=2.6.0" type="text/javascript"></script>
+</head>
+    <body class="site com-sppagebuilder view-page no-layout no-task itemid-666 ar-aa rtl sticky-header layout-fluid off-canvas-menu-init"><div style="display:none">
+            <span class="gspeech_selection gspeech_style_5" roll="5">جامعة المنصورة - مصر</span>
+            <span class="gspeech_pro_main_wrapper">&nbsp;
+            <span class="sexy_tooltip"><span class="the-tooltip top left sexy_tooltip_5"><span class="tooltip_inner">Click to listen highlighted text!</span></span></span>
+            <span class="sound_container_pro greeting_block sound_div_5" language="" roll="5" autoplaypro="0" speechtimeout="0" selector="" hidespeaker="1" eventpro="" title="" style=""><span class="sound_text_pro">جامعة المنصورة - مصر</span></span>
+            <span class="sexy_tooltip"><span class="the-tooltip bottom left dark-midnight-blue"><span class="tooltip_inner powered_by_3 powered_by">Powered By <a href="http://creative-solutions.net/joomla/gspeech" target="_blank" class="backlink_a">GSpeech</a></span></span></span>
+            </span></div>
+    
+    	        <div  class=" body-wrapper off-canvas-menu-wrap">
+            <div class="body-innerwrapper body_innerwrapper_overflow">
+    			<section id="sp-section-1"><div class="container"><div class="row"><div id="sp-position8" class="col-sm-5 col-md-5"><div class="sp-column"><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<p><a href="http://muea.mans.edu.eg" target="_blank" rel="noopener"> <button type="button" class="btn btn-danger">جائزة التميز</button> </a> <a href="/employment-portal"> <button type="button" class="btn btn-danger">بوابة التوظيف</button> </a></p></div>
+</div></div></div></div><div id="sp-top1" class="col-sm-5 col-md-5"><div class="sp-column"><div class="sp-module "><div class="sp-module-content"><div class="mod-sppagebuilder  sp-page-builder" data-module_id="501">
+	<div class="page-content">
+		<div id="section-id-1615275103741" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1615275103740"><div id="column-id-1615275103740" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1617273478190" class="sppb-addon-wrapper"><div id="sppb-addon-1617273478190" class="clearfix "     ><div class="sppb-addon sppb-addon-icons-group social-icons icons-group-title-postion-top"><ul class="sppb-icons-group-list"><li id="icon-1617273478191" class=""><a href="https://www.facebook.com/MansouraUniversityOfficial/" aria-label="Facebook" rel="noopener noreferrer" target="_blank"><i class="fab fa-facebook-f " aria-hidden="true" title="Facebook"></i></a></li><li id="icon-1617273478192" class=""><a href="https://twitter.com/Mansoura_un" aria-label="Twitter" rel="noopener noreferrer" target="_blank"><i class="fab fa-twitter " aria-hidden="true" title="Twitter"></i></a></li><li id="icon-1617273478193" class=""><a href="https://www.instagram.com/mansourauniversityofficial" aria-label="Instagram" rel="noopener noreferrer" target="_blank"><i class="fab fa-instagram " aria-hidden="true" title="Instagram"></i></a></li><li id="icon-1617273478194" class=""><a href="https://www.pinterest.com/mansuniv/_created" aria-label="Pinterest" rel="noopener noreferrer" target="_blank"><i class="fab fa-pinterest " aria-hidden="true" title="Pinterest"></i></a></li><li id="icon-1617273478195" class=""><a href="https://www.youtube.com/mansvu" aria-label="YouTube" rel="noopener noreferrer" target="_blank"><i class="fab fa-youtube " aria-hidden="true" title="YouTube"></i></a></li><li id="icon-1617273478196" class=""><a href="https://www.linkedin.com/school/mansoura-university-official" aria-label="Linkedin" rel="noopener noreferrer" target="_blank"><i class="fab fa-linkedin " aria-hidden="true" title="Linkedin"></i></a></li><li id="icon-1617273478197" class=""><a href="/index.php/about/connect" aria-label="بيانات الاتصال"><i class="fas fa-phone-square " aria-hidden="true" title="بيانات الاتصال"></i></a></li></ul></div><style type="text/css">#sppb-addon-1617273478190 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1617273478190 {
+}
+#sppb-addon-1617273478190.sppb-element-loaded {
+}
+#sppb-addon-1617273478190 a:hover,
+#sppb-addon-1617273478190 a:focus,
+#sppb-addon-1617273478190 a:active {
+	color: #fbc8c2;
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1617273478190 {}}@media (max-width: 767px) {#sppb-addon-1617273478190 {}}#sppb-addon-1617273478190 .social-icons li{border:none;}</style><style type="text/css">#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478191 a {margin: 7px;padding:    ;border-style: none;}#sppb-addon-1617273478190 .sppb-icons-group-list {margin: -7px;}#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478191{display: inline-block;}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478191 a {padding:    ;}}@media (max-width: 767px) {#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478191 a {padding:    ;}}
+#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478192 a {margin: 7px;padding:    ;border-style: none;}#sppb-addon-1617273478190 .sppb-icons-group-list {margin: -7px;}#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478192 .sppb-icons-label-text {font-size: 16px;letter-spacing: 0px;}#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478192{display: inline-block;}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478192 a {padding:    ;}}@media (max-width: 767px) {#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478192 a {padding:    ;}}
+#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478193 a {margin: 7px;padding:    ;border-style: none;}#sppb-addon-1617273478190 .sppb-icons-group-list {margin: -7px;}#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478193 .sppb-icons-label-text {font-size: 16px;letter-spacing: 0px;}#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478193{display: inline-block;}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478193 a {padding:    ;}}@media (max-width: 767px) {#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478193 a {padding:    ;}}
+#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478194 a {margin: 7px;padding:    ;border-style: none;}#sppb-addon-1617273478190 .sppb-icons-group-list {margin: -7px;}#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478194 .sppb-icons-label-text {font-size: 16px;letter-spacing: 0px;}#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478194{display: inline-block;}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478194 a {padding:    ;}}@media (max-width: 767px) {#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478194 a {padding:    ;}}
+#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478195 a {margin: 7px;padding:    ;border-style: none;}#sppb-addon-1617273478190 .sppb-icons-group-list {margin: -7px;}#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478195 .sppb-icons-label-text {font-size: 16px;letter-spacing: 0px;}#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478195{display: inline-block;}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478195 a {padding:    ;}}@media (max-width: 767px) {#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478195 a {padding:    ;}}
+#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478196 a {margin: 7px;padding:    ;border-style: none;}#sppb-addon-1617273478190 .sppb-icons-group-list {margin: -7px;}#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478196 .sppb-icons-label-text {font-size: 16px;letter-spacing: 0px;}#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478196{display: inline-block;}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478196 a {padding:    ;}}@media (max-width: 767px) {#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478196 a {padding:    ;}}
+#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478197 a {margin: 7px;padding:    ;border-style: none;}#sppb-addon-1617273478190 .sppb-icons-group-list {margin: -7px;}#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478197 .sppb-icons-label-text {font-size: 16px;letter-spacing: 0px;}#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478197{display: inline-block;}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478197 a {padding:    ;}}@media (max-width: 767px) {#sppb-addon-1617273478190 .sppb-icons-group-list li#icon-1617273478197 a {padding:    ;}}#sppb-addon-1617273478190 .sppb-addon-title {margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; }</style></div></div></div></div></div></div></div></div><style type="text/css">.sp-page-builder .page-content #section-buttons{padding-top:50px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) { .sp-page-builder .page-content #section-buttons{padding-top:12px;padding-right:38px;padding-bottom:12px;padding-left:38px;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;} }#column-id-1676371730488{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;box-shadow:0 0 0 0 #fff;}#column-wrap-id-1676371730488{margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;}#column-id-1676371730490{background-color:#005965;}#column-id-1676371730490 > .sppb-column-overlay {mix-blend-mode:multiply;}.sp-page-builder .page-content #fac{padding-top:0;padding-right:0;padding-bottom:0;padding-left:15px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;color:#000000;background-color:#e6e6e6;box-shadow:0 0 0 0 #ffffff;}#column-id-1604439223892{background-color:#f1f1f1;}.sp-page-builder .page-content #section-id-1604173137810{padding-top:0;padding-right:15px;padding-bottom:50px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1604173137811{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1604436569545{padding-top:0;padding-right:0px;padding-bottom:0;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1604436569546{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #contact-us{padding-right:20px;padding-bottom:0;padding-left:20px;margin-top:0px;background-color:#00272b;background-repeat:inherit;background-size:contain;background-attachment:inherit;background-position:50% 50%;}.sp-page-builder .page-content #contact-us{background-image:url(https://res.cloudinary.com/joomshaper/image/upload/v1582107175/placeholder.svg);}.sp-page-builder .page-content #contact-us.sppb-element-loaded {background-image:url(/images/svg/section-background-stripes2.svg);}.sp-page-builder .page-content #section-id-1602843315116{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1602843315117{box-shadow:0 0 0 0 #fff;}#column-id-1482796178{padding-top:50px;padding-right:0;padding-bottom:0;color:#b3b3b3;}#column-id-1482796185{padding-top:0px;padding-right:15px;padding-bottom:30px;color:#9e9e9e;}.sp-page-builder .page-content #section-id-1615275103741{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1615275103740{box-shadow:0 0 0 0 #fff;}</style>	</div>
+</div>
+</div></div></div></div><div id="sp-topsearch" class="col-sm-1 col-md-1 hidden-sm hidden-xs"><div class="sp-column"><div class="sp-module "><div class="sp-module-content">
+<div style="display:inline-block;" class="top-search-wrapper">
+
+	<div class="icon-top-wrapper">
+		<!-- 
+        <i class="fa fa-search search-open-icon" aria-hidden="true"></i>
+		<i class="fa fa-times search-close-icon" aria-hidden="true"></i> 
+        -->
+        <i class="pe pe-7s-search search-open-icon" aria-hidden="true"></i>
+		<i class="pe pe-7s-close search-close-icon" aria-hidden="true"></i>
+	</div>
+
+	<div class="row top-search-input-wrap" id="top-search-input-wrap">
+		<div class="top-search-wrap">
+			<div class="searchwrapper">
+				<form action="/" method="post">
+					<div class="search">
+						<div class="top-search-wrapper"><div class="sp_search_input"><input name="searchword" maxlength="200"  class="mod-search-searchword inputbox" type="text" size="80" value="ابحث هنا - Search here"  onblur="if (this.value=='') this.value='ابحث هنا - Search here';" onfocus="if (this.value=='ابحث هنا - Search here') this.value='';" /></div></div>						<input type="hidden" name="task" value="search" />
+						<input type="hidden" name="option" value="com_search" />
+						<input type="hidden" name="Itemid" value="666" />
+					</div>
+				</form>
+			</div> <!-- /.searchwrapper -->
+		</div> <!-- /.col-sm-6 -->
+	</div> <!-- /.row -->
+</div> <!-- /.top-search-wrapper -->	</div></div></div></div><div id="sp-top3" class="col-sm-1 col-md-1 hidden-sm hidden-xs"><div class="sp-column"><div class="sp-module  "><div class="sp-module-content"><div class="mod-languages ">
+
+	<div class="btn-group">
+																	<a href="#" data-toggle="dropdown" class="dropdown-toggle">AR<i class="pe pe-7s-angle-down"></i></a>
+																	<ul class="lang-block dropdown-menu" dir="rtl">
+														<li class="no-flag" >
+				<a href="/en/">
+					EN				</a>
+				</li>
+												<li class="no-flag" >
+				<a href="/fr/">
+					FR				</a>
+				</li>
+							</ul>
+	</div>
+
+</div>
+</div></div></div></div></div></div></section><header id="sp-header"><div class="container"><div class="row"><div id="sp-logo" class="col-xs-8 col-sm-8 col-md-2"><div class="sp-column"><a class="logo" href="/"><img style="max-width:165px;max-height:55px;" class="sp-default-logo hidden-xs" src="/images/hnixpbzafvrmcbwysejb.png" alt="جامعة المنصورة - مصر"><img style="max-width:165px;max-height:55px;" class="sp-retina-logo hidden-xs" src="/images/mans_logo_.png" alt="جامعة المنصورة - مصر"><img class="sp-default-logo visible-xs-block" src="/images/mobilemans_logo.png" alt="جامعة المنصورة - مصر"></a></div></div><div id="sp-menu" class="col-xs-4 col-sm-4 col-md-10"><div class="sp-column">			<div class="sp-megamenu-wrapper">
+				<a id="offcanvas-toggler" class="visible-sm visible-xs" href="#" aria-label="Menu"><i class="fas fa-bars" aria-hidden="true" title="Menu"></i></a>
+				<ul class="sp-megamenu-parent menu-zoom hidden-sm hidden-xs"><li class="sp-menu-item current-item active"><a  href="/"  >الرئيسية</a></li><li class="sp-menu-item sp-has-child"><a  href="javascript:void(0);"  >عن الجامعة</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item sp-has-child"><a  href="javascript:void(0);"  ><i class="fa fa-history"></i> تاريخ وحقائق</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;left: -240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/about/info/president-message"  >كلمة رئيس الجامعة</a></li><li class="sp-menu-item"><a  href="/about/info/history"  ><i class="fa fa-history"></i> تاريخ الجامعة</a></li><li class="sp-menu-item"><a  href="/about/info/facts-figures"  ><i class="fa fa-id-card"></i> حقائق وأرقام</a></li><li class="sp-menu-item"><a  href="/about/info/university-vision"  ><i class="fa fa-eye"></i> رؤية الجامعة</a></li><li class="sp-menu-item"><a  href="/about/info/university-mission"  ><i class="fa fa-tasks"></i> رسالة الجامعة</a></li><li class="sp-menu-item"><a  href="/about/info/university-objectives"  ><i class="fa fa-check"></i> أهداف الجامعة</a></li><li class="sp-menu-item"><a  href="/about/info/rank-of-the-university-among-the-universities-of-the-world"  ><i class="fa fa-globe"></i> ترتيب الجامعة بين جامعات العالم</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="javascript:void(0);"  ><i class="fab fa-hornbill"></i> قطاعات الجامعة</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;left: -240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="https://esa.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >قطاع شئون التعليم والطلاب</a></li><li class="sp-menu-item"><a  href="https://pgsr.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >قطاع شئون الدراسات العليا والبحوث</a></li><li class="sp-menu-item"><a  href="https://env.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >قطاع خدمة المجتمع وتنمية البيئة</a></li><li class="sp-menu-item"><a  href="https://musg.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >قطاع أمين عام الجامعة</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="javascript:void(0);"  ><i class="fas fa-bars"></i> الادارات</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;left: -240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="https://gmad.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >الادارة العامة للتنظيم والادارة</a></li><li class="sp-menu-item"><a  href="https://ccm.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >ادارة الاتصالات والمؤتمرات</a></li><li class="sp-menu-item"><a  href="https://isa.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >ادارة الوافدين</a></li><li class="sp-menu-item"><a  href="https://mem.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >ادارة التربية العسكرية</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/about/organizational-chart"  ><i class="fas fa-table"></i> الهيكل التنظيمى للجامعة</a></li><li class="sp-menu-item"><a  href="/about/quality-policy"  ><i class="fa fa-user"></i> سياسة الجودة</a></li><li class="sp-menu-item"><a  href="/about/privacy-policy"  ><i class="fa fa-user"></i> سياسة الخصوصية</a></li><li class="sp-menu-item"><a  href="/about/connect"  ><i class="fa fa-envelope-open"></i> بيانات الاتصال</a></li><li class="sp-menu-item"><a  href="/about/ask-president"  ><i class="fa fa-envelope-open"></i> اسأل رئيس الجامعة</a></li><li class="sp-menu-item"><a  href="/about/conferences-workshops-trainings"  ><i class="fa fa-calendar"></i> المؤتمرات والأحداث</a></li><li class="sp-menu-item"><a  href="/about/sitemap"  ><i class="pe pe-7s-anchor"></i>خريطة الموقع</a></li><li class="sp-menu-item"><a  href="/about/mansoura-university-vs-corona-virus"  >الجامعة في مواجهة كورونا</a></li><li class="sp-menu-item"><a  href="/about/sustainable-development"  >التنمية المستدامة</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="#fac"  >الكليات والبرامج النوعية</a></li><li class="sp-menu-item sp-has-child"><a  href="javascript:void(0);"  >المراكز والوحدات</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item sp-has-child"><a  href="javascript:void(0);"  >مراكز التطوير بالجامعة</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;left: -240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="http://udc.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >مركز تطوير الأداء الجامعي</a></li><li class="sp-menu-item"><a  href="http://muqac.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >مركز ضمان الجودة وتقييم الأداء</a></li><li class="sp-menu-item"><a  href="https://mac.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >مركز القياس والتقويم</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="javascript:void(0);"  >المراكز والوحدات الخاصة</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;left: -240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="http://citc.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >مركز تقنية الاتصالات والمعلومات</a></li><li class="sp-menu-item"><a  href="http://ghcc.mans.edu.eg" rel="noopener noreferrer" target="_blank" >مركز دار الضيافة والؤتمرات</a></li><li class="sp-menu-item"><a  href="http://mucd.mans.edu.eg" rel="noopener noreferrer" target="_blank" >مركز خدمات الأشخاص ذوى الإعاقة</a></li><li class="sp-menu-item"><a  href="http://centers.mans.edu.eg/muiddsc/" rel="noopener noreferrer" target="_blank" >مركز المعلومات والتوثيق ودعم اتخاذ القرار</a></li><li class="sp-menu-item"><a  href="http://smesc.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >مركز دعم الصناعات الصغيرة والمتوسطة</a></li><li class="sp-menu-item"><a  href="http://tico.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >مكتب دعم الابتكار ونقل وتسويق التكنولوجيا</a></li><li class="sp-menu-item"><a  href="/centers-units/special-centers-and-units/unit-for-combating-violence-against-women" rel="noopener noreferrer" target="_blank" >وحدة مناهضة العنف ضد المرأة</a></li><li class="sp-menu-item"><a  href="/centers-units/special-centers-and-units/committee-to-confront-the-dangers-of-addiction-and-abuse" rel="noopener noreferrer" target="_blank" >لجنة مواجهة خطر الإدمان والتعاطي </a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="javascript:void(0);"  >أندية الجامعة</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;left: -240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="http://staffclub.mans.edu.eg" rel="noopener noreferrer" target="_blank" >نادى أعضاء هيئة التدريس</a></li><li class="sp-menu-item"><a  href="http://nileclub.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >نادي النيل</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="javascript:void(0);"  >مراكز التدريب والتدريس</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;left: -240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="https://mtcc.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >مركز التدريب الاداري والاستشارات</a></li><li class="sp-menu-item"><a  href="http://dtc.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >مركز التدريب الرقمي</a></li><li class="sp-menu-item"><a  href="http://espc.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >مركز اللغة الانجليزية للأغراض الخاصة</a></li><li class="sp-menu-item"><a  href="http://ccdc.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >مركز رعاية وتنمية الطفولة</a></li><li class="sp-menu-item"><a  href="http://etc.mans.edu.eg" rel="noopener noreferrer" target="_blank" >مركز تكنولوجيا التعليم</a></li><li class="sp-menu-item"><a  href="http://mupsc.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >مركز الخدمة العامة للغات والترجمة</a></li><li class="sp-menu-item"><a  href="https://gsc.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >مركز الخدمة العامة بكلية التربية للطفولة المبكرة</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="javascript:void(0);"  >مراكز ووحدات بحثية</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;left: -240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="http://centers.mans.edu.eg/water" rel="noopener noreferrer" target="_blank" >مركز مشروعات المياه والصرف الصحي والصناعي</a></li><li class="sp-menu-item"><a  href="http://centers.mans.edu.eg/studies_center" rel="noopener noreferrer" target="_blank" >مركز الدراسات والبحوث والاستشارات الهندسية</a></li><li class="sp-menu-item"><a  href="http://munano.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >مركز جامعة المنصورة للنانوتكنولوجي</a></li><li class="sp-menu-item"><a  href="https://emunit.netlify.app" rel="noopener noreferrer nofollow" target="_blank" >وحدة الميكروسكوب الإلكتروني</a></li><li class="sp-menu-item"><a  href="http://www1.mans.edu.eg/FacMed/centers/merc/" rel="noopener noreferrer" target="_blank" >مركز البحوث الطبية التجريبية</a></li><li class="sp-menu-item"><a  href="https://muvp.mans.edu.eg" rel="noopener noreferrer" target="_blank" >مركز الأحافير الفقارية</a></li></ul></div></div></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="javascript:void(0);"  >الرعاية الصحية</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-left" style="width: 900px;"><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-3"><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<p><img style="margin: 30px 0px 0px; float: right;" src="/images/lib/clinic-1807543_1920.jpg" alt="clinic 1807543 1920" width="1920" height="1385" /></p></div>
+</div></div></div><div class="col-sm-3"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child separator"><a class="sp-group-title" href="javascript:void(0);"  >المستشفيات</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="http://muh.mans.edu.eg" rel="noopener noreferrer" target="_blank" >المستشفى الرئيسي</a></li><li class="sp-menu-item"><a  href="http://emhospital.mans.edu.eg" rel="noopener noreferrer" target="_blank" >مستشفى الطوارئ</a></li><li class="sp-menu-item"><a  href="http://smh.mans.edu.eg" rel="noopener noreferrer" target="_blank" >مستشفى الباطنة التخصصى</a></li><li class="sp-menu-item"><a  href="http://much.mans.edu.eg" rel="noopener noreferrer" target="_blank" >مستشفى الأطفال الجامعى</a></li><li class="sp-menu-item"><a  href="http://mush.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >مستشفى الطلبة الجامعى</a></li><li class="sp-menu-item"><a  href="#"  >مستشفى النقاهة</a></li></ul></li></ul></div><div class="col-sm-3"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child separator"><a class="sp-group-title" href="javascript:void(0);"  >المراكز الطبية</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="http://www.unc.edu.eg/" rel="noopener noreferrer nofollow" target="_blank" >مركز الكلى والمسالك البولية</a></li><li class="sp-menu-item"><a  href="http://ophc.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >مركز طب وجراحة العيون</a></li><li class="sp-menu-item"><a  href="http://gisc.mans.edu.eg" rel="noopener noreferrer" target="_blank" >مركز جراحة الجهاز الهضمي</a></li><li class="sp-menu-item"><a  href="http://ocmu.mans.edu.eg" rel="noopener noreferrer" target="_blank" >مركز الأورام</a></li><li class="sp-menu-item"><a  href="https://medfac.mans.edu.eg/index.php/centers-andunitis/centers/burns-plastic-center-ar"  >مركز جراحة الحروق والتجميل</a></li></ul></li></ul></div><div class="col-sm-3"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child separator"><a class="sp-group-title" href="javascript:void(0);"  >المراكز الطبية</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="https://cvsc.mans.edu.eg/" rel="noopener noreferrer" target="_blank" >مركز جراحة القلب والصدر وجراحة الأوعية الدموية</a></li><li class="sp-menu-item"><a  href="https://medfac.mans.edu.eg/index.php/centers-andunitis/centers/new-3centers"  >مركز جراحة العظام</a></li><li class="sp-menu-item"><a  href="https://medfac.mans.edu.eg/index.php/centers-andunitis/centers/new-3centers"  >مركز جراحة النساء والتوليد</a></li><li class="sp-menu-item"><a  href="https://medfac.mans.edu.eg/index.php/centers-andunitis/centers/new-3centers"  >مركز أمراض المخ والأعصاب</a></li></ul></li></ul></div></div></div></div></li><li class="sp-menu-item sp-has-child"><a  href="javascript:void(0);"  >الأخبار والميديا</a><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/mans-news-page"  >الأخبار</a></li><li class="sp-menu-item"><a  href="/mansoura-news-archive"  >أرشيف الأخبار</a></li><li class="sp-menu-item"><a  href="/news-media/media"  >ميديا الجامعة</a></li><li class="sp-menu-item"><a  href="http://maps.mans.edu.eg/"  >خريطة الجامعة</a></li></ul></div></div></li></ul>			</div>
+		</div></div></div></div></header><section id="sp-slider" class="flex"><div class="row"><div id="sp-slider" class="col-sm-12 col-md-12"><div class="sp-column"><div class="sp-module "><div class="sp-module-content"> 
+<div id="ap-smart-layerslider-mod_364" class="slider-pro style5 ">
+    <!-- Slides -->
+    <div class="sp-slides row-fluid">    
+                    <div class="sp-slide">
+				   
+                      
+                      <img class="sp-image crop" src="/modules/mod_ap_smart_layerslider/assets/images/blank.gif" data-src="https://www.mans.edu.eg/images/ap-smart-layerslider/homepage/award .jpg" alt="المركز الأول فى التميز الحكومى" />
+                     
+                              
+                <!-- Description (layers) -->
+                <div class="ap-layer">
+                    <div class="sp-layer"
+data-position="topRight"
+data-width="50%"
+data-horizontal="255"
+data-show-offset="60"
+data-vertical="160"
+data-show-transition="left"
+data-show-duration="900"
+data-show-delay="1000">
+<div class="sppb-addon">
+<h1 class="sppb-addon-title" style="font-size:500%;text-shadow:0 0 40px rgba(255,255,255,.5);color:#000">المركز الأول في التميز الحكومي</h1></div>
+</div>
+<div class="sp-layer"
+data-position="bottomRight"
+data-width="45%"
+data-show-offset="80"
+data-horizontal="230"
+data-vertical="310"
+data-show-transition="left"
+data-show-duration="900"
+data-show-delay="1300">
+<p style="font-size:32px;line-height:1.7;color:#000"> حصول كلية الهندسة - جامعة المنصورة على المركز الأول في جائزة مصر للتميز الحكومي الدورة الثالثة 2022</p>
+</div>
+<div class="sp-layer"
+data-position="bottomRight"
+data-horizontal="252"
+data-width="50%"
+data-show-offset="100"
+data-vertical="130"
+data-show-transition="left"
+data-show-duration="1200"
+data-show-delay="1600">
+<a href="/mans-news/5818-the-faculty-of-engineering-at-mansoura-university-won-first-place-in-the-egypt-award-for-government-excellence-in-its-third-session"class="btn btn-readmore">مزيد من التفاصيل</a> 
+</div>                </div>
+                    
+             </div>
+		              <div class="sp-slide">
+				   
+                      
+                      <img class="sp-image crop" src="/modules/mod_ap_smart_layerslider/assets/images/blank.gif" data-src="https://www.mans.edu.eg/images/ap-smart-layerslider/homepage/00.jpg" alt="جامعة المنصورة" />
+                     
+                              
+                <!-- Description (layers) -->
+                <div class="ap-layer">
+                    
+
+<div class="sp-layer centered"
+data-position="leftCenter"
+data-horizontal="37%"
+data-show-offset="80"
+data-vertical="-250"
+data-show-transition="up"
+data-show-duration="1000"
+data-show-delay="150"
+data-hide-duration="800"
+data-hide-transition="down">
+<h1 style="font-size:550%;margin-bottom:25px;padding:30px;color:rgba(255,255,255,1);text-shadow:5px 5px 3px rgba(0,0,0);">جامعة المنصورة</h1>
+</div>
+
+<div class="sp-layer centered"
+data-position="leftCenter"
+data-horizontal="25%"
+data-show-offset="120"
+data-vertical="150"
+data-show-transition="up"
+data-show-duration="2000"
+data-show-delay="400"
+data-hide-duration="1000"
+data-hide-transition="down">
+<h3 class="black_bckg-50" style="font-size:250%;margin-bottom:50px;color:rgba(255,255,255,.9);padding:20px 30px;text-shadow: 3px 4px 3px rgba(0,0,0);">تتميز جامعة المنصورة بالمساحات الخضراء الواسعة والتصميم الجذاب للمنشآت</h3>
+<a style="font-size:200%;padding:15px 60px;line-height:2;letter-spacing:1px;" href="/photo-album" class="btn btn-light page-scroll"><i style="margin-left:-10px;margin-right:20px;font-size:160%;font-weight:600;vertical-align:middle;margin-top:-8px;" ></i>شاهد ألبوم الصور</a>
+</div>                </div>
+                    
+             </div>
+		              <div class="sp-slide">
+				   
+                      
+                      <img class="sp-image crop" src="/modules/mod_ap_smart_layerslider/assets/images/blank.gif" data-src="https://www.mans.edu.eg/images/ap-smart-layerslider/homepage/mu_360.jpg" alt="جامعة المنصورة VR360" />
+                     
+                              
+                <!-- Description (layers) -->
+                <div class="ap-layer">
+                    
+<div class="sp-layer"
+data-position="topRight"
+data-width="50%"
+data-horizontal="150"
+data-show-offset="60"
+data-vertical="100"
+data-show-transition="left"
+data-show-duration="900"
+data-show-delay="1000">
+<div class="sppb-addon">
+<h1 class="sppb-addon-title" style="font-size:1000%; line-height: 1.5;text-shadow:0 0 40px rgba(255,255,255,.5); color:#fff;text-align: center;">جامعة المنصورة VR 360°</h1>
+</div></div>
+
+<div class="sp-layer"
+data-position="bottomRight"
+data-horizontal="570"
+data-width="50%"
+data-show-offset="100"
+data-vertical="200"
+data-show-transition="left"
+data-show-duration="1200"
+data-show-delay="1600">
+<a href="https://www.youtube.com/watch?v=C8qaFY4Drco&feature=youtu.be" target="_blank" class="btn btn-readmore">شاهد الآن</a> 
+</div>                </div>
+                    
+             </div>
+		              <div class="sp-slide">
+				   
+                      
+                      <img class="sp-image crop" src="/modules/mod_ap_smart_layerslider/assets/images/blank.gif" data-src="https://www.mans.edu.eg/images/ap-smart-layerslider/homepage/femail1.jpg" alt="مناهضدة العنف ضد المرأة" />
+                     
+                              
+                <!-- Description (layers) -->
+                <div class="ap-layer">
+                    
+<div class="sp-layer"
+data-position="topRight"
+data-width="50%"
+data-horizontal="255"
+data-show-offset="60"
+data-vertical="160"
+data-show-transition="left"
+data-show-duration="900"
+data-show-delay="1000">
+<div class="sppb-addon">
+<h1 class="sppb-addon-title" style="font-size:500%;text-shadow:0 0 40px rgba(255,255,255,.5);color:#000">مناهضة العنف ضد المرأة</h1></div>
+</div>
+<div class="sp-layer"
+data-position="bottomRight"
+data-width="45%"
+data-show-offset="80"
+data-horizontal="230"
+data-vertical="310"
+data-show-transition="left"
+data-show-duration="900"
+data-show-delay="1300">
+<p style="font-size:32px;line-height:1.7;color:#000">تطبق جامعة المنصورة سياسات واضحة لمناهضة العنف ضد المرأة بشكل عام وظاهرة التحرش الجنسي بشكل خاص كما تتبنى تدابير محددة المعالم للحد من الظاهرة ومعاقبة المتحرشين</p>
+</div>
+<div class="sp-layer"
+data-position="bottomRight"
+data-horizontal="252"
+data-width="50%"
+data-show-offset="100"
+data-vertical="130"
+data-show-transition="left"
+data-show-duration="1200"
+data-show-delay="1600">
+<a href="/centers-units/special-centers-and-units/unit-for-combating-violence-against-women" class="btn btn-readmore">مزيد من التفاصيل</a> 
+</div>                </div>
+                    
+             </div>
+		              <div class="sp-slide">
+				   
+                      
+                      <img class="sp-image crop" src="/modules/mod_ap_smart_layerslider/assets/images/blank.gif" data-src="https://www.mans.edu.eg/images/ap-smart-layerslider/homepage/olympic.jpg" alt="القرية الأولمبية" />
+                     
+                              
+                <!-- Description (layers) -->
+                <div class="ap-layer">
+                    <div class="sp-layer"
+data-position="topLeft"
+data-width="30%"
+data-show-offset="100"
+data-horizontal="150"
+data-vertical="150"
+data-show-transition="up"
+data-show-duration="1000"
+data-show-delay="500">
+<h1 style="font-size:700%;color:#7f7f7f;text-shadow:0 1px 40px rgba(255,255,255,.5), 0 20px 25px rgba(0,0,0,.1);">
+<span style="font-weight:300;text-shadow:0 1px 35px #fff;">القرية الأولمبية</span></h1>
+</div>
+<div class="sp-layer"
+data-position="bottomLeft"
+data-width="35%"
+data-horizontal="120"
+data-vertical="150"
+data-show-transition="down"
+data-show-duration="1200"
+data-show-delay="2700">
+<a  href="http://olympic.mans.edu.eg/" target="_blank">
+<p style="font-size:30px;line-height:1.7;color:#595959;">القرية الأوليمبية بجامعة المنصورةتعتبر صرحا كبيرا على مساحة 34 فدان تحتوي على العديد من الملاعب والصالة الرياضية والأنشطة المختلفة للنهوض بمستوى الرياضة للجميع
+</p>
+</a>
+</div>
+<div class="sp-layer"
+data-width="100"
+data-height="100"
+data-position="centerLeft"
+data-horizontal="160"
+data-show-offset="200"
+data-vertical="-30"
+data-show-transition="left"
+data-show-duration="1300"
+data-show-delay="1500"
+data-hide-transition="right">
+<img style="border-radius:6px;" src="/images/ap-smart-layerslider/homepage3/colors/f14833.png" alt="صالة الجيم فى جامعة المنصورة" />
+</div>
+<div class="sp-layer"
+data-width="100"
+data-height="100"
+data-position="centerLeft"
+data-horizontal="270"
+data-show-offset="100"
+data-vertical="-30"
+data-show-transition="left"
+data-show-duration="1150"
+data-show-delay="1400"
+data-hide-transition="right">
+<img style="border-radius:6px;" src="/images/ap-smart-layerslider/homepage3/colors/fca224.png" alt="ملاعب السلة فى جامعة المنصورة"/>
+</div>
+<div class="sp-layer"
+data-width="100"
+data-height="100"
+data-position="centerLeft"
+data-horizontal="380"
+data-vertical="-30"
+data-show-transition="left"
+data-show-duration="1000"
+data-show-delay="1300"
+data-hide-transition="right">
+<img style="border-radius:6px;" src="/images/ap-smart-layerslider/homepage3/colors/f0e95b.png" alt="ملاعب الاسكواش فى جامعة المنصورة"/>
+</div>
+<div class="sp-layer"
+data-width="100"
+data-height="100"
+data-position="centerLeft"
+data-horizontal="490"
+data-vertical="-30"
+data-show-transition="right"
+data-show-duration="1000"
+data-show-delay="1300"
+data-hide-transition="left">
+<img style="border-radius:6px;" src="/images/ap-smart-layerslider/homepage3/colors/22a9e1.png" alt="حمامات السباحة فى جامعة المنصورة"/>
+</div>
+<div class="sp-layer"
+data-width="100"
+data-height="100"
+data-position="centerLeft"
+data-horizontal="600"
+data-vertical="-30"
+data-show-offset="100"
+data-show-transition="right"
+data-show-duration="1150"
+data-show-delay="1400"
+data-hide-transition="left">
+<img style="border-radius:6px;" src="/images/ap-smart-layerslider/homepage3/colors/16b99a.png" alt="أستاد جامعة المنصورة"/>
+</div>
+<div class="sp-layer"
+data-width="100"
+data-height="100"
+data-position="centerLeft"
+data-horizontal="710"
+data-show-offset="200"
+data-vertical="-30"
+data-show-transition="right"
+data-show-duration="1300"
+data-show-delay="1500"
+data-hide-transition="left">
+<img style="border-radius:6px;" src="/images/ap-smart-layerslider/homepage3/colors/cc8b60.png" alt="ملعب التنس الأرضي في جامعة المنصورة"/>
+</div>
+
+                </div>
+                    
+             </div>
+		              <div class="sp-slide">
+				   
+                      
+                      <img class="sp-image crop" src="/modules/mod_ap_smart_layerslider/assets/images/blank.gif" data-src="https://www.mans.edu.eg/images/ap-smart-layerslider/homepage/slide-.jpg" alt="الخدمات الالكترونية داخل جامعة المنصورة" />
+                     
+                              
+                <!-- Description (layers) -->
+                <div class="ap-layer">
+                    <div class="sp-layer"
+data-position="bottomLeft"
+data-horizontal="280"
+data-width="550"
+data-show-offset="180"
+data-vertical="0"
+data-show-transition="up"
+data-show-duration="1200"
+data-show-delay="1000"
+data-hide-transition="down">
+<img src="/images/ap-smart-layerslider/homepage/layers/iPhone6_mockup_front.png" alt="الخدمات الالكترونية داخل جامعة المنصورة"/>
+</div>
+<div class="sp-layer"
+data-position="topRight"
+data-width="50%"
+data-horizontal="255"
+data-show-offset="60"
+data-vertical="160"
+data-show-transition="left"
+data-show-duration="900"
+data-show-delay="1000">
+<div class="sppb-addon">
+<h1 class="sppb-addon-title" style="font-size:500%;text-shadow:0 0 40px rgba(255,255,255,.5);color:#000">الخدمات الالكترونية</h1></div>
+</div>
+<div class="sp-layer"
+data-position="bottomRight"
+data-width="45%"
+data-show-offset="80"
+data-horizontal="230"
+data-vertical="310"
+data-show-transition="left"
+data-show-duration="900"
+data-show-delay="1300">
+<p style="font-size:32px;line-height:1.7;color:#000">
+جامعة المنصورة تعتبر من الجامعات الذكية التي تدير جميع الاجراءات داخل الجامعة بصورة الكترونية وأيضا تقدم العديد من الخدمات بشكل الكتروني لكل من ... </p>
+</div>
+<div class="sp-layer"
+data-position="bottomRight"
+data-horizontal="252"
+data-width="50%"
+data-show-offset="100"
+data-vertical="130"
+data-show-transition="left"
+data-show-duration="1200"
+data-show-delay="1600">
+<a href="/the-students" class="btn btn-readmore">الطلاب</a> <a href="/teaching-and-staff" class="btn btn-dark">هيئة التدريس والعاملين</a><a href="/graduate-studies" class="btn sppb-btn-default">الخريجين والدراسات العليا</i></a>
+</div>
+
+<div class="sp-layer"
+data-position="bottomLeft"
+data-horizontal="376"
+data-show-offset="100"
+data-vertical="180"
+data-show-transition="up"
+data-show-duration="1200"
+data-show-delay="2500"
+data-hide-transition="down">
+<div style="width:370px;white-space: pre-wrap;text-align:center;">
+<h4 style="font-size:30px;line-height:25px;letter-spacing: 1px;color:#fff;margin:0 auto;">جامعة المنصورة</h4>
+<p style="font-size:18px;color:#fff;margin:0 auto 2px;">الأولى فى مصر فى مسابقة أفضل جامعة فى التحول الرقمي</p>
+
+</div>
+</div>                </div>
+                    
+             </div>
+		    
+     </div> 
+    
+      
+            	     
+</div>	
+
+<script type="text/javascript">
+;(function($){
+	$(document).ready(function() {	
+	$('#ap-smart-layerslider-mod_364').sliderPro({
+	width: 2340,
+	height: 851,
+	forceSize:'none',
+	visibleSize:'auto',
+	slideDistance: 0,
+	responsive:true,
+	imageScaleMode:'contain',
+	autoHeight:true,
+	autoScaleLayers:true,
+	waitForLayers:false,
+	
+	orientation:'horizontal',
+	loop:true,
+	
+				fade:true,
+	fadeOutPreviousSlide:false,
+	fadeDuration:500,
+		autoplay:true,
+	autoplayDelay:8000,
+	autoplayOnHover:'pause',
+		reachVideoAction:'playVideo',
+	leaveVideoAction:'stopVideo',
+	playVideoAction:'none',
+	pauseVideoAction:'none',
+	endVideoAction:'replayVideo',
+									
+	arrows:true,
+	buttons:true,
+	breakpoints: {
+		979: {
+			thumbnailsPosition: 'bottom'
+		},
+		480: {
+			thumbnailsPosition: 'bottom',
+			thumbnailWidth: 120,
+			thumbnailHeight: 50
+		}
+	}
+});
+	$("#ap-smart-layerslider-mod_364 .ap-layer").not(".sp-layer").contents().filter(function(){return this.nodeType == 3;}).remove();
+	$("#ap-smart-layerslider-mod_364 .ap-layer").children().not(".sp-layer").remove();
+  });})(jQuery);
+</script><style type="text/css">
+  #ap-smart-layerslider-mod_364 .sp-arrow{font-size:50px;width:70px;}
+	
+.sp-horizontal .sp-arrow {margin-top:-33.333333333333px;}
+.sp-vertical .sp-arrow {margin-left:-33.333333333333px;}
+ 
+ 
+ 
+#ap-smart-layerslider-mod_364 .sp-button{border-color:rgba(255,93,93,1);}
+#ap-smart-layerslider-mod_364 .sp-selected-button{background-color:rgba(255,93,93,1);} 
+#ap-smart-layerslider-mod_364 .sp-full-screen-button:before{color:#000000;}
+@media (max-width: 979px) {
+#ap-smart-layerslider-mod_364 .sp-arrow{font-size:45px;width:55px;}	
+}
+</style>
+
+</div></div></div></div></div></section><section id="sp-page-title" class="flex"><div class="row"><div id="sp-title" class="col-sm-12 col-md-12"><div class="sp-column"></div></div></div></section><section id="sp-main-body"><div class="row"><div id="sp-component" class="col-sm-12 col-md-12"><div class="sp-column "><div id="system-message-container">
+	</div>
+
+<div id="sp-page-builder" class="sp-page-builder  page-98">
+
+	
+	<div class="page-content">
+				<section id="section-id-1676288037836" class="sppb-section sppb-section-content-center" ><div class="sppb-row-container"><div class="sppb-row sppb-align-center"><div class="sppb-col-md-12" id="column-wrap-id-1676288037837"><div id="column-id-1676288037837" class="sppb-column " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1677491542897" class="sppb-addon-wrapper"><div id="sppb-addon-1677491542897" class="clearfix "     ><div class="sppb-addon sppb-addon-module "><div class="sppb-addon-content"><div class="mod-sppagebuilder  sp-page-builder" data-module_id="537">
+	<div class="page-content">
+		<div id="section-buttons" class="sppb-section sppb-section-content-center" ><div class="sppb-container-inner"><div class="sppb-row sppb-align-center"><div class="sppb-col-md-7" id="column-wrap-id-1676371730488"><div id="column-id-1676371730488" class="sppb-column right-buttons-section" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1676371730489" class="sppb-addon-wrapper"><div id="sppb-addon-1676371730489" class="clearfix "     ><div class="sppb-addon sppb-addon-button-group sppb-text-center"><div class="sppb-addon-content"><a href="/the-students" id="btn-1676371730489" class="sppb-btn  sppb-btn-link sppb-btn-rounded sppb-btn-flat">الطلاب</a><a href="/teaching-and-staff" id="btn-1676371730490" class="sppb-btn  sppb-btn-link sppb-btn-rounded sppb-btn-flat">هيئة التدريس والعاملين</a><a href="/graduate-studies" id="btn-1676371730491" class="sppb-btn  sppb-btn-link sppb-btn-rounded sppb-btn-flat">الخريجون والدراسات العليا</a><a href="/visitors" id="btn-1676371730492" class="sppb-btn  sppb-btn-link sppb-btn-rounded sppb-btn-flat">الزائرون</a><a href="https://www.mans.edu.eg/faculty-staff-email" id="btn-1676371730493" class="sppb-btn  sppb-btn-link sppb-btn-rounded sppb-btn-flat"> البريد</a></div></div><style type="text/css">#sppb-addon-1676371730489 {
+	box-shadow: 0 0 0 0 #ffffff;
+padding:0 0 0 0;}
+#sppb-addon-1676371730489 {
+}
+#sppb-addon-1676371730489.sppb-element-loaded {
+}
+#sppb-addon-1676371730489 a {
+	color: #f47363;
+}
+#sppb-addon-1676371730489 a:hover,
+#sppb-addon-1676371730489 a:focus,
+#sppb-addon-1676371730489 a:active {
+	color: #005965;
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1676371730489 {}}@media (max-width: 767px) {#sppb-addon-1676371730489 {}}</style><style type="text/css">#sppb-addon-1676371730489 .sppb-addon-content {margin: -3px;}#sppb-addon-1676371730489 .sppb-addon-content .sppb-btn {margin: 3px;}#sppb-addon-1676371730489 #btn-1676371730489.sppb-btn-link {text-decoration:none;border-radius:0;}#sppb-addon-1676371730489 #btn-1676371730489.sppb-btn-link:hover,#sppb-addon-1676371730489 #btn-1676371730489.sppb-btn-link:focus {}#sppb-addon-1676371730489 #btn-1676371730490.sppb-btn-link {text-decoration:none;border-radius:0;}#sppb-addon-1676371730489 #btn-1676371730490.sppb-btn-link:hover,#sppb-addon-1676371730489 #btn-1676371730490.sppb-btn-link:focus {}#sppb-addon-1676371730489 #btn-1676371730491.sppb-btn-link {text-decoration:none;border-radius:0;}#sppb-addon-1676371730489 #btn-1676371730491.sppb-btn-link:hover,#sppb-addon-1676371730489 #btn-1676371730491.sppb-btn-link:focus {}#sppb-addon-1676371730489 #btn-1676371730492.sppb-btn-link {text-decoration:none;border-radius:0;}#sppb-addon-1676371730489 #btn-1676371730492.sppb-btn-link:hover,#sppb-addon-1676371730489 #btn-1676371730492.sppb-btn-link:focus {}#sppb-addon-1676371730489 #btn-1676371730493.sppb-btn-link {text-decoration:none;border-radius:0;}#sppb-addon-1676371730489 #btn-1676371730493.sppb-btn-link:hover,#sppb-addon-1676371730489 #btn-1676371730493.sppb-btn-link:focus {}#sppb-addon-1676371730489 #btn-1676371730493.sppb-btn-link{font-weight: 700;}</style></div></div></div></div></div><div class="sppb-col-md-5" id="column-wrap-id-1676371730490"><div id="column-id-1676371730490" class="sppb-column left-buttons-section " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1676371730491" class="sppb-addon-wrapper"><div id="sppb-addon-1676371730491" class="clearfix "     ><div class="sppb-addon sppb-addon-icons-group  icons-group-title-postion-top sppb-text-center"><ul class="sppb-icons-group-list"><li id="icon-1676371730492" class=""><a href="/calendar" aria-label="أجندة الأحداث"><i class="far fa-calendar-alt " aria-hidden="true" title="أجندة الأحداث"></i><span class="sppb-icons-label-text">أجندة الأحداث</span></a></li><li id="icon-1676371730493" class=""><a href="/sustainable-development-goals" aria-label="التنمية المستدامة"><i class="far fa-lightbulb " aria-hidden="true" title="التنمية المستدامة"></i><span class="sppb-icons-label-text">التنمية المستدامة</span></a></li><li id="icon-1676371730494" class=""><a href="/ranking-ar" aria-label="التصنيف الدولي"><i class="fas fa-trophy " aria-hidden="true" title="التصنيف الدولي"></i><span class="sppb-icons-label-text">التصنيف الدولي</span></a></li><li id="icon-1676371730495" class=""><a href="/e-management-systems" aria-label="الأنظمة الإلكترونية"><i class="fas fa-envelope-open-text " aria-hidden="true" title="الأنظمة الإلكترونية"></i><span class="sppb-icons-label-text">الأنظمة الإلكترونية</span></a></li></ul></div><style type="text/css">#sppb-addon-wrapper-1676371730491 {
+margin:10px 0px 10px 0px;}
+#sppb-addon-1676371730491 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1676371730491 {
+}
+#sppb-addon-1676371730491.sppb-element-loaded {
+}
+#sppb-addon-1676371730491 a {
+	color: #ffffff;
+}
+#sppb-addon-1676371730491 a:hover,
+#sppb-addon-1676371730491 a:focus,
+#sppb-addon-1676371730491 a:active {
+	color: #f47363;
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1676371730491 {}}@media (max-width: 767px) {#sppb-addon-1676371730491 {}}#sppb-addon-1676371730491 li{border-bottom:none;}</style><style type="text/css">#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730492 a {margin: 4px;padding: 4px 4px 4px 4px;width: 80px;border-style: none;font-size: 20px;}#sppb-addon-1676371730491 .sppb-icons-group-list {margin: -4px;}#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730492 .sppb-icons-label-text {font-size: 16px;letter-spacing: 0px;}#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730492{display: inline-block;}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730492 a {padding:    ;}}@media (max-width: 767px) {#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730492 a {margin: 2px;padding:    ;}#sppb-addon-1676371730491 .sppb-icons-group-list {margin: -2px;}}
+#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730493 a {margin: 4px;padding: 4px 4px 4px 4px;width: 80px;font-size: 20px;}#sppb-addon-1676371730491 .sppb-icons-group-list {margin: -4px;}#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730493 .sppb-icons-label-text {font-size: 16px;letter-spacing: 0px;}#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730493{display: inline-block;}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730493 a {padding:    ;}}@media (max-width: 767px) {#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730493 a {margin: 2px;padding:    ;}#sppb-addon-1676371730491 .sppb-icons-group-list {margin: -2px;}}
+#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730494 a {margin: 4px;padding: 4px 4px 4px 4px;width: 80px;border-style: none;font-size: 20px;}#sppb-addon-1676371730491 .sppb-icons-group-list {margin: -4px;}#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730494 .sppb-icons-label-text {font-size: 16px;letter-spacing: 0px;}#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730494{display: inline-block;}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730494 a {padding:    ;}}@media (max-width: 767px) {#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730494 a {margin: 2px;padding:    ;}#sppb-addon-1676371730491 .sppb-icons-group-list {margin: -2px;}}
+#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730495 a {margin: 4px;padding: 4px 4px 4px 4px;width: 80px;border-style: none;font-size: 20px;}#sppb-addon-1676371730491 .sppb-icons-group-list {margin: -4px;}#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730495 .sppb-icons-label-text {font-size: 16px;letter-spacing: 0px;}#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730495{display: inline-block;}@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730495 a {padding:    ;}}@media (max-width: 767px) {#sppb-addon-1676371730491 .sppb-icons-group-list li#icon-1676371730495 a {margin: 2px;padding:    ;}#sppb-addon-1676371730491 .sppb-icons-group-list {margin: -2px;}}#sppb-addon-1676371730491 .sppb-addon-title {margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; }</style></div></div></div></div></div></div></div></div><style type="text/css">.sp-page-builder .page-content #section-buttons{padding-top:50px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) { .sp-page-builder .page-content #section-buttons{padding-top:12px;padding-right:38px;padding-bottom:12px;padding-left:38px;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;} }#column-id-1676371730488{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;box-shadow:0 0 0 0 #fff;}#column-wrap-id-1676371730488{margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;}#column-id-1676371730490{background-color:#005965;}#column-id-1676371730490 > .sppb-column-overlay {mix-blend-mode:multiply;}</style>	</div>
+</div>
+</div></div></div></div></div></div></div></div></div></section><section id="section-id-1482796146" class="sppb-section" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-sm-12" id="column-wrap-id-1482796147"><div id="column-id-1482796147" class="sppb-column " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1482796148" class="sppb-addon-wrapper"><div id="sppb-addon-1482796148" class=" sppb-wow flipInY clearfix "  data-sppb-wow-duration="4000ms" data-sppb-wow-delay="500ms"     ><div class="sppb-addon sppb-addon-text-block sppb-text-center "><h3 class="sppb-addon-title">أحدث الأخبار</h3><div class="sppb-addon-content"></div></div></div></div><div id="sppb-addon-wrapper-1482796149" class="sppb-addon-wrapper"><div id="sppb-addon-1482796149" class="clearfix "     ><div class="sppb-empty-space clearfix"></div></div></div><div id="sppb-addon-wrapper-1482796150" class="sppb-addon-wrapper"><div id="sppb-addon-1482796150" class="clearfix "     ><div class="sppb-addon-latest-posts blog row "><div class="sppb-addon-content"><div id="lp-235" class="latest-posts clearfix"><div><div class="latest-post col-sm-4 columns-3"><div class="latest-post-inner match-height"><div class="img-wrapper"><a href="/mans-news/284-sustainable-development-news/5976-l-universite-de-mansoura-a-remporte-la-premiere-place-du-concours-de-la-meilleure-universite-respectueuse-de-l-environnement"><img class="post-img" src="/images/news/2023/08/230801a/02/06.jpg" alt="جامعة المنصورة تتوج بالمركز الأول في مسابقة أفضل جامعة صديقة للبيئة" /></a></div><div class="entry-meta"><span class="entry-date"> الثلاثاء، 01 أغسطس 2023</span></div><h2 class="entry-title"><a href="/mans-news/284-sustainable-development-news/5976-l-universite-de-mansoura-a-remporte-la-premiere-place-du-concours-de-la-meilleure-universite-respectueuse-de-l-environnement">جامعة المنصورة تتوج بالمركز الأول في مسابقة أفضل جامعة صديقة للبيئة</a></h2></div></div><div class="latest-post col-sm-4 columns-3"><div class="latest-post-inner match-height"><div class="img-wrapper"><a href="/mans-news/5973-mansoura-university-honors-scholars-and-researchers-on-the-fourteenth-science-day"><img class="post-img" src="/images/news/2023/08/230801/02/95.jpg" alt="جامعة المنصورة تُكَرِّم العلماء والباحثين بعيد العلم الرابع عشر" /></a></div><div class="entry-meta"><span class="entry-date"> الثلاثاء، 01 أغسطس 2023</span></div><h2 class="entry-title"><a href="/mans-news/5973-mansoura-university-honors-scholars-and-researchers-on-the-fourteenth-science-day">جامعة المنصورة تُكَرِّم العلماء والباحثين بعيد العلم الرابع عشر</a></h2></div></div><div class="latest-post col-sm-4 columns-3"><div class="latest-post-inner match-height"><div class="img-wrapper"><a href="/mans-news/5972-the-final-list-of-gentlemen-whose-candidacy-has-been-accepted-for-the-position-of-dean-of-the-college-of-arts"><img class="post-img" src="/images/lib/-adv.jpg" alt="القائمة النهائية للسادة المقبول ترشيحهم لشغل منصب عميد كلية الآداب - جامعة المنصورة" /></a></div><div class="entry-meta"><span class="entry-date"> الأحد، 30 يوليو 2023</span></div><h2 class="entry-title"><a href="/mans-news/5972-the-final-list-of-gentlemen-whose-candidacy-has-been-accepted-for-the-position-of-dean-of-the-college-of-arts">القائمة النهائية للسادة المقبول ترشيحهم لشغل منصب عميد كلية الآداب - جامعة المنصورة</a></h2></div></div></div><div><div class="latest-post col-sm-4 columns-3"><div class="latest-post-inner match-height"><div class="img-wrapper"><a href="/mans-news/5971-mansoura-university-awards-in-2023"><img class="post-img" src="/images/news/2023/07/230724b/02/08.jpg" alt="مجلس جامعة المنصورة يعلن عن الفائزين بجوائز الجامعة عام 2023" /></a></div><div class="entry-meta"><span class="entry-date"> الإثنين، 24 يوليو 2023</span></div><h2 class="entry-title"><a href="/mans-news/5971-mansoura-university-awards-in-2023">مجلس جامعة المنصورة يعلن عن الفائزين بجوائز الجامعة عام 2023</a></h2></div></div><div class="latest-post col-sm-4 columns-3"><div class="latest-post-inner match-height"><div class="img-wrapper"><a href="/mans-news/5968-mansoura-university-announces-the-results-of-the-internal-arbitration-of-the-youth-for-development-initiative"><img class="post-img" src="/images/news/2023/07/230723d/02/27.jpg" alt="في نسختها الثَّانية... جامعة المنصورة تُعلن نتائج التحكيم الدَّاخلي لمبادرة "شباب من أجل التنمية"" /></a></div><div class="entry-meta"><span class="entry-date"> الأحد، 23 يوليو 2023</span></div><h2 class="entry-title"><a href="/mans-news/5968-mansoura-university-announces-the-results-of-the-internal-arbitration-of-the-youth-for-development-initiative">في نسختها الثَّانية... جامعة المنصورة تُعلن نتائج التحكيم الدَّاخلي لمبادرة "شباب من أجل التنمية"</a></h2></div></div><div class="latest-post col-sm-4 columns-3"><div class="latest-post-inner match-height"><div class="img-wrapper"><a href="/mans-news/5966-after-half-a-century-mansoura-excavations-scientifically-document-the-master-of-the-oasis-the-seventh-dinosaur-of-egypt"><img class="post-img" src="/images/news/2023/07/230723c/02/04.jpg" alt="بعد نصف قرن.. حفريات المنصورة تُوثِّق علميًّا "سيد الواحة" ديناصور مصر السابع" /></a></div><div class="entry-meta"><span class="entry-date"> الأحد، 23 يوليو 2023</span></div><h2 class="entry-title"><a href="/mans-news/5966-after-half-a-century-mansoura-excavations-scientifically-document-the-master-of-the-oasis-the-seventh-dinosaur-of-egypt">بعد نصف قرن.. حفريات المنصورة تُوثِّق علميًّا "سيد الواحة" ديناصور مصر السابع</a></h2></div></div></div></div></div></div></div></div><div id="sppb-addon-wrapper-1603195437107" class="sppb-addon-wrapper"><div id="sppb-addon-1603195437107" class="clearfix "     ><div style="float:none;margin-left:auto;margin-right:auto;display:table;" class="sppb-text-center"><a href="/mans-news-page" id="btn-1603195437107" class="sppb-btn  sppb-btn-primary sppb-btn-rounded sppb-btn-flat">جميع أخبار الجامعة</a></div></div></div></div></div></div></div></div></section><section id="section-id-1602023938540" class="sppb-section sppb-element-lazy" ><div class="sppb-section-background-video"><video class="section-bg-video" autoplay muted playsinline loop data-poster=""><source data-large="/media/videos/2020/11/03/computer.mp4" type="video/mp4"></video></div><div class="sppb-row-overlay"></div><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-sm-6" id="column-wrap-id-1602023938547"><div id="column-id-1602023938547" class="sppb-column  sppb-wow fadeInUp"  data-sppb-wow-duration="2000ms" data-sppb-wow-delay="300ms"><div class="sppb-column-addons"></div></div></div><div class="sppb-col-sm-6" id="column-wrap-id-1602023938548"><div id="column-id-1602023938548" class="sppb-column  inline-class svgwhite shadow sppb-wow fadeIn"  data-sppb-wow-duration="500ms" data-sppb-wow-delay="500ms"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1602023938549" class="sppb-addon-wrapper"><div id="sppb-addon-1602023938549" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-right padding30"><h3 class="sppb-addon-title">الخدمات الالكترونية بجامعة المنصورة</h3><div class="sppb-addon-content"><p>يمكنك الحصول على جميع الخدمات الالكترونية من خلال موقع جامعة المنصورة حيث يمكنك اختيار البوابة المراد الدخول اليها</p></div></div></div></div><div id="section-id-1602023938550" class="sppb-section" ><div class="sppb-row-overlay"></div><div class="sppb-container-inner"><div class="sppb-row sppb-no-gutter"><div class="sppb-col-md-4 sppb-col-sm-4 sppb-col-xs-4" id="column-wrap-id-1602023938551"><div id="column-id-1602023938551" class="sppb-column " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1602023938552" class="sppb-addon-wrapper"><div id="sppb-addon-1602023938552" class="clearfix "     ><div class="sppb-addon sppb-addon-pie-progress "><div class="sppb-addon-content sppb-text-center"><div class="sppb-pie-chart" data-size="110" data-percent="-100" data-width="3" data-barcolor="#f14833" data-animate="2000" data-trackcolor="#f5f5f5" style="height:110px; width:110px;"><div class="sppb-chart-icon"><span><i class="fa fas fa-book-reader" style="font-size:45px;line-height:46px;width:45px;height:45px;color:#005965;"></i></span></div></div><div class="sppb-addon-text"><h4><a href="/the-students">طلاب</a></h4></div></div></div></div></div></div></div></div><div class="sppb-col-md-4 sppb-col-sm-4 sppb-col-xs-4" id="column-wrap-id-1602023938553"><div id="column-id-1602023938553" class="sppb-column " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1602023938554" class="sppb-addon-wrapper"><div id="sppb-addon-1602023938554" class="clearfix "     ><div class="sppb-addon sppb-addon-pie-progress "><div class="sppb-addon-content sppb-text-center"><div class="sppb-pie-chart" data-size="110" data-percent="100" data-width="3" data-barcolor="#f14833" data-animate="3000" data-trackcolor="#f5f5f5" style="height:110px; width:110px;"><div class="sppb-chart-icon"><span><i class="fa fas fa-user-tie" style="font-size:50px;line-height:51px;width:50px;height:50px;color:#005965;"></i></span></div></div><div class="sppb-addon-text"><h4><a href="/teaching-and-staff">هيئة تدريس وعاملون</a></h4></div></div></div></div></div></div></div></div><div class="sppb-col-md-4 sppb-col-sm-4 sppb-col-xs-4" id="column-wrap-id-1602023938555"><div id="column-id-1602023938555" class="sppb-column " ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1602023938556" class="sppb-addon-wrapper"><div id="sppb-addon-1602023938556" class="clearfix "     ><div class="sppb-addon sppb-addon-pie-progress "><div class="sppb-addon-content sppb-text-center"><div class="sppb-pie-chart" data-size="110" data-percent="-100" data-width="3" data-barcolor="#f14833" data-animate="4000" data-trackcolor="#f5f5f5" style="height:110px; width:110px;"><div class="sppb-chart-icon"><span><i class="fa fas fa-user-graduate" style="font-size:44px;line-height:45px;width:44px;height:44px;color:#005965;"></i></span></div></div><div class="sppb-addon-text"><h4><a href="/graduate-studies">خريجون ودراسات عليا</a></h4></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></section><section id="section-id-1602704467119" class="sppb-section sppb-element-lazy" ><div class="sppb-row-overlay"></div><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1602704467120"><div id="column-id-1602704467120" class="sppb-column " ><div class="sppb-column-addons"></div></div></div></div></div></section><section id="section-id-1603195437141" class="sppb-section" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-4" id="column-wrap-id-1603195437138"><div id="column-id-1603195437138" class="sppb-column sppb-wow bounceIn"  data-sppb-wow-duration="1000ms" data-sppb-wow-delay="500ms"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1603195437158" class="sppb-addon-wrapper"><div id="sppb-addon-1603195437158" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block  "><h3 class="sppb-addon-title">الجامعة فى أسبوع</h3><div class="sppb-addon-content"></div></div></div></div><div id="sppb-addon-wrapper-1623159713386" class="sppb-addon-wrapper"><div id="sppb-addon-1623159713386" class="clearfix "     ><div class="sppb-addon sppb-addon-raw-html "><div class="sppb-addon-content"><p><a href="https://www.youtube.com/watch?v=7GfqVMfmUic" target="_blank" rel="nofollow noopener"><img src="/images/2023/03/07/v23.jpg" alt="slide1" width="350" height="201" /></a></p></div></div></div></div><div id="sppb-addon-wrapper-1603195437172" class="sppb-addon-wrapper"><div id="sppb-addon-1603195437172" class="clearfix "     ><div style="display:block;" class="sppb-text-center"><a target="_blank" href="https://www.youtube.com/playlist?list=PL0vK6ji6_rhGGzHmvhZ1JS8_0Z4sfZi0A" id="btn-1603195437172" class="sppb-btn  sppb-btn-primary sppb-btn-block sppb-btn-rounded sppb-btn-flat">شاهد المزيد</a></div></div></div></div></div></div><div class="sppb-col-md-4" id="column-wrap-id-1603195437139"><div id="column-id-1603195437139" class="sppb-column sppb-wow bounceIn"  data-sppb-wow-duration="1000ms" data-sppb-wow-delay="1000ms"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1603195437161" class="sppb-addon-wrapper"><div id="sppb-addon-1603195437161" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block  "><h3 class="sppb-addon-title">مقاطع مميزة</h3><div class="sppb-addon-content"></div></div></div></div><div id="sppb-addon-wrapper-1623159713395" class="sppb-addon-wrapper"><div id="sppb-addon-1623159713395" class="clearfix "     ><div class="sppb-addon sppb-addon-raw-html "><div class="sppb-addon-content"><p><a href="https://www.youtube.com/watch?v=bQAf3dVG-c4" target="_blank" rel="nofollow noopener"><img src="/images/2020/11/17/v2.jpg" alt="slide1" width="350" height="201" /></a></p></div></div></div></div><div id="sppb-addon-wrapper-1603195437183" class="sppb-addon-wrapper"><div id="sppb-addon-1603195437183" class="clearfix "     ><div style="display:block;" class="sppb-text-center"><a target="_blank" href="https://www.youtube.com/playlist?list=PL0vK6ji6_rhG0mxXzARIfqsuHArrjfzCv" id="btn-1603195437183" class="sppb-btn  sppb-btn-primary sppb-btn-block sppb-btn-rounded sppb-btn-flat">شاهد المزيد</a></div></div></div></div></div></div><div class="sppb-col-md-4" id="column-wrap-id-1603195437140"><div id="column-id-1603195437140" class="sppb-column sppb-wow bounceIn"  data-sppb-wow-duration="1000ms" data-sppb-wow-delay="1500ms"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1603195437153" class="sppb-addon-wrapper"><div id="sppb-addon-1603195437153" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block  "><h3 class="sppb-addon-title">الجامعة فى عيون الإعلام</h3><div class="sppb-addon-content"></div></div></div></div><div id="sppb-addon-wrapper-1623159713410" class="sppb-addon-wrapper"><div id="sppb-addon-1623159713410" class="clearfix "     ><div class="sppb-addon sppb-addon-raw-html "><div class="sppb-addon-content"><p><a href="https://www.youtube.com/watch?v=1wOiups5JSk" target="_blank" rel="nofollow noopener"><img src="/images/lib/v3.jpg" alt="slide1" width="350" height="201" /></a></p></div></div></div></div><div id="sppb-addon-wrapper-1603195437202" class="sppb-addon-wrapper"><div id="sppb-addon-1603195437202" class="clearfix "     ><div style="display:block;" class="sppb-text-center"><a target="_blank" href="https://www.youtube.com/playlist?list=PL0vK6ji6_rhFz9oBGKPdSkfQNK1_FEjBr" id="btn-1603195437202" class="sppb-btn  sppb-btn-primary sppb-btn-block sppb-btn-rounded sppb-btn-flat">شاهد المزيد</a></div></div></div></div></div></div></div></div></section><section id="section-id-1602170378858" class="sppb-section sppb-element-lazy" ><div class="sppb-row-overlay"></div><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-7" id="column-wrap-id-1602170378875"><div id="column-id-1602170378875" class="sppb-column sppb-wow fadeInLeftBig"  data-sppb-wow-delay="70ms"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1602170378877" class="sppb-addon-wrapper"><div id="sppb-addon-1602170378877" class="clearfix "     ><div class="sppb-addon sppb-addon-header sppb-text-right"><h4 class="sppb-addon-title">دورات تدريبية مقدمة من الجامعة</h4></div></div></div><div id="sppb-addon-wrapper-1602170378878" class="sppb-addon-wrapper"><div id="sppb-addon-1602170378878" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-right "><div class="sppb-addon-content"><p style="text-align: right;">يوجد داخل جامعة المنصوة العديد من المراكز والوحدات التابعة للجامعة والتى تقدم العديد من الدورات التدريبة فى جميع التخصصات&nbsp;</p></div></div></div></div><div id="section-id-1602193474323" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-4 sppb-col-sm-4 sppb-col-xs-4" id="column-wrap-id-1602193474324"><div id="column-id-1602193474324" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1602173894154" class="sppb-addon-wrapper"><div id="sppb-addon-1602173894154" class="clearfix "     ><div class="sppb-addon sppb-addon-feature  "><div class="sppb-addon-content sppb-text-center"><div class="sppb-icon"><span class="sppb-icon-container"><i aria-hidden="true" aria-label="خبرات علمية" class="fa fas fa-graduation-cap"></i></span></div><div class="sppb-media-content"><h4 class="sppb-addon-title sppb-feature-box-title">خبرات علمية</h4><div class="sppb-addon-text"></div></div></div></div></div></div></div></div></div><div class="sppb-col-md-4 sppb-col-sm-4 sppb-col-xs-4" id="column-wrap-id-1602193474327"><div id="column-id-1602193474327" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1602193474332" class="sppb-addon-wrapper"><div id="sppb-addon-1602193474332" class="clearfix "     ><div class="sppb-addon sppb-addon-feature  "><div class="sppb-addon-content sppb-text-center"><div class="sppb-icon"><span class="sppb-icon-container"><i aria-hidden="true" aria-label="شهادات معتمدة" class="fa fas fa-certificate"></i></span></div><div class="sppb-media-content"><h4 class="sppb-addon-title sppb-feature-box-title">شهادات معتمدة</h4><div class="sppb-addon-text"></div></div></div></div></div></div></div></div></div><div class="sppb-col-md-4 sppb-col-sm-4 sppb-col-xs-4" id="column-wrap-id-1604867103761"><div id="column-id-1604867103761" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1602193474366" class="sppb-addon-wrapper"><div id="sppb-addon-1602193474366" class="clearfix "     ><div class="sppb-addon sppb-addon-feature  "><div class="sppb-addon-content sppb-text-center"><div class="sppb-icon"><span class="sppb-icon-container"><i aria-hidden="true" aria-label="تطبيقات عملية" class="fa fas fa-pencil-ruler"></i></span></div><div class="sppb-media-content"><h4 class="sppb-addon-title sppb-feature-box-title">تطبيقات عملية</h4><div class="sppb-addon-text"></div></div></div></div></div></div></div></div></div></div></div></div><div id="sppb-addon-wrapper-1602170378879" class="sppb-addon-wrapper"><div id="sppb-addon-1602170378879" class="clearfix "     ><div style="float:none;margin-left:auto;margin-right:auto;display:table;" class="sppb-text-center"><a href="/2020-11-12-08-39-30" id="btn-1602170378879" class="sppb-btn  sppb-btn-primary sppb-btn-sm sppb-btn-rounded">تصفح الدورات المتاحة <i style="margin-left:5px;margin-right:-1px;" class="fa fas fa-search"></i></a></div></div></div></div></div></div><div class="sppb-col-md-5" id="column-wrap-id-1604603952044"><div id="column-id-1604603952044" class="sppb-column sppb-hidden-sm sppb-hidden-xs" ><div class="sppb-column-addons"></div></div></div></div></div></section><section id="section-id-1522938428667" class="sppb-section black-inset-shadow-10" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1483015624"><div id="column-id-1483015624" class="sppb-column  sppb-wow fadeInRight"  data-sppb-wow-duration="500ms" data-sppb-wow-delay="200ms"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1604575238233" class="sppb-addon-wrapper"><div id="sppb-addon-1604575238233" class="clearfix "     ><div class="sppb-addon sppb-addon-animated-heading sppb-text-center"><h4 class="sppb-addon-title animated-heading-text text-clip is-full-width"><span class="animated-text-words-wrapper"><span class="animated-text is-visible">مستشفيات</span><span class="animated-text ">مراكز طبية</span></span><span class="animated-heading-after-part"> جامعة المنصورة</span></h4></div></div></div><div id="section-id-1604575238225" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-4" id="column-wrap-id-1604575238226"><div id="column-id-1604575238226" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1523344361761" class="sppb-addon-wrapper"><div id="sppb-addon-1523344361761" class="clearfix "     ><div class="sppb-addon sppb-addon-pie-progress "><div class="sppb-addon-content sppb-text-center"><div class="sppb-pie-chart" data-size="110" data-percent="100" data-width="2" data-barcolor="#f14833" data-animate="2000" data-trackcolor="rgba(255, 222, 217, 1)" style="height:110px; width:110px;"><div class="sppb-chart-icon"><span><i class="fa fas fa-wheelchair" style="font-size:36px;line-height:37px;width:36px;height:36px;color:#e83d34;"></i></span></div></div><div class="sppb-addon-text"><p>أكثر من</p></div></div></div></div></div><div id="sppb-addon-wrapper-1483015625" class="sppb-addon-wrapper"><div id="sppb-addon-1483015625" class="clearfix "     ><div class="sppb-empty-space clearfix"></div></div></div><div id="sppb-addon-wrapper-1483015626" class="sppb-addon-wrapper"><div id="sppb-addon-1483015626" class="clearfix "     ><div class="sppb-addon sppb-addon-animated-number sppb-text-center major_color"><div class="sppb-addon-content" style=""><span class="sppb-animated-number" data-digit="1814000" data-duration="3300">0</span><div class="sppb-animated-number-title">زيارة طبية سنوياً</div></div></div></div></div></div></div></div><div class="sppb-col-md-4" id="column-wrap-id-1604575238229"><div id="column-id-1604575238229" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1523351477996" class="sppb-addon-wrapper"><div id="sppb-addon-1523351477996" class="clearfix "     ><div class="sppb-addon sppb-addon-pie-progress "><div class="sppb-addon-content sppb-text-center"><div class="sppb-pie-chart" data-size="110" data-percent="100" data-width="2" data-barcolor="#f14833" data-animate="2000" data-trackcolor="rgba(255, 222, 217, 1)" style="height:110px; width:110px;"><div class="sppb-chart-icon"><span><i class="fa fas fa-procedures" style="font-size:36px;line-height:37px;width:36px;height:36px;color:#e83d34;"></i></span></div></div><div class="sppb-addon-text"><p>أكثر من</p></div></div></div></div></div><div id="sppb-addon-wrapper-1483015628" class="sppb-addon-wrapper"><div id="sppb-addon-1483015628" class="clearfix "     ><div class="sppb-empty-space clearfix"></div></div></div><div id="sppb-addon-wrapper-1483015629" class="sppb-addon-wrapper"><div id="sppb-addon-1483015629" class="clearfix "     ><div class="sppb-addon sppb-addon-animated-number sppb-text-center "><div class="sppb-addon-content" style=""><span class="sppb-animated-number" data-digit="11960" data-duration="3200">0</span><div class="sppb-animated-number-title">عملية جراحية سنوياً</div></div></div></div></div></div></div></div><div class="sppb-col-md-4" id="column-wrap-id-1604575238230"><div id="column-id-1604575238230" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1523351478009" class="sppb-addon-wrapper"><div id="sppb-addon-1523351478009" class="clearfix "     ><div class="sppb-addon sppb-addon-pie-progress "><div class="sppb-addon-content sppb-text-center"><div class="sppb-pie-chart" data-size="110" data-percent="100" data-width="2" data-barcolor="#f14833" data-animate="2000" data-trackcolor="rgba(255, 222, 217, 1)" style="height:110px; width:110px;"><div class="sppb-chart-icon"><span><i class="fa fas fa-stethoscope" style="font-size:36px;line-height:37px;width:36px;height:36px;color:#e83d34;"></i></span></div></div><div class="sppb-addon-text"><p>أكثر من</p></div></div></div></div></div><div id="sppb-addon-wrapper-1483015631" class="sppb-addon-wrapper"><div id="sppb-addon-1483015631" class="clearfix "     ><div class="sppb-empty-space clearfix"></div></div></div><div id="sppb-addon-wrapper-1483015632" class="sppb-addon-wrapper"><div id="sppb-addon-1483015632" class="clearfix "     ><div class="sppb-addon sppb-addon-animated-number sppb-text-center major_color"><div class="sppb-addon-content" style=""><span class="sppb-animated-number" data-digit="3650" data-duration="3000">0</span><div class="sppb-animated-number-title">طبيباً</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></section><section id="section-id-1657107342613" class="sppb-section sppb-element-lazy"  data-sppb-parallax="on"><div class="sppb-row-overlay"></div><div class="sppb-row-container"><div class="sppb-row sppb-no-gutter"><div class="sppb-col-md-12" id="column-wrap-id-1657107342613"><div id="column-id-1657107342613" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1657107342614" class="sppb-addon-wrapper"><div id="sppb-addon-1657107342614" class="clearfix "     ><div id="sppb-sp-slider-1657107342614" class="sppb-addon-sp-slider sp-slider    arrow-position-bottom_left " data-height="370px" data-height-sm="360px" data-height-xs="590px" data-slider-animation="fade"   data-autoplay="true" data-interval="6000" data-timer="false" data-speed="1000" data-dot-control="false" data-arrow-control="true" data-indecator="true" data-arrow-content="icon_only" data-slide-count="false" data-dot-style="dot" data-pause-hover="false"><div id="sp-slider-item-1657107342614-num-0-key" class="sp-item  active slider-content-vercally-center"><div class="sppb-container"><div class="sppb-row"><div class="sppb-col-sm-12"><div class="sppb-row"><div class="sppb-col-xs-12 sppb-col-sm-5 sppb-col-md-4  image-align-left"><div class="sp-slider-image-align-left"><div id="sp-slider-inner-item-1657107342615-num-0-key" class="sppb-sp-slider-image avatar" data-layer="true" data-animation='{"type":"slide","direction":"right","from":"50%", "to":"0%","duration":"800","after":"400", "timing_function":"ease"}'><img src="/images/2022/07/06/student1.jpg" alt="THE AMAZING SLIDESHOW ADDON!"></div><div id="sp-slider-inner-item-1657107342615-num-1-key" class="sppb-sp-slider-image icon" data-layer="true" data-animation='{"type":"slide","direction":"left","from":"50%", "to":"0%","duration":"800","after":"1000", "timing_function":"ease"}'><img src="https://sppagebuilder.com/images/2021/consultancy-firm/comma.svg" alt=""></div></div></div><div class="sppb-col-xs-12 sppb-col-sm-7 sppb-col-md-8"><div class="sp-slider-content-align-left"><div id="sp-slider-inner-item-1657107342615-num-2-key" class="sppb-sp-slider-text" data-layer="true" data-animation='{"type":"slide","direction":"bottom","from":"50%", "to":"0%","duration":"800","after":"1000", "timing_function":"linear"}'><p style="direction: rtl;">تحرص جامعة المنصورة دائما على تقديم الدعم الدائم لطلابها وتوفير كل ما يعود بالنفع علينا من تعليم وتدريب. لذلك أحب جامعتي لما تقدمه من تعليم جامعي متميز ونشاط طلابي متنوع يساعدنا على التميز</p></div><h2 id="sp-slider-inner-item-1657107342615-num-3-key" class="sppb-sp-slider-title" data-layer="true" data-animation='{"type":"slide","direction":"bottom","from":"50%", "to":"0%","duration":"900","after":"1100", "timing_function":"linear"}'>فدوى الشناوي عطية الشناوي</h2><div id="sp-slider-inner-item-1657107342615-num-4-key" class="sppb-sp-slider-text" data-layer="true" data-animation='{"type":"slide","direction":"bottom","from":"50%", "to":"0%","duration":"900","after":"1100", "timing_function":"linear"}'>الفرقة الثالثة كلية طب الأسنان
+
+</div></div></div></div></div></div></div></div><div id="sp-slider-item-1657107342614-num-1-key" class="sp-item  slider-content-vercally-center"><div class="sppb-container"><div class="sppb-row"><div class="sppb-col-sm-12"><div class="sppb-row"><div class="sppb-col-xs-12 sppb-col-sm-5 sppb-col-md-4  image-align-left"><div class="sp-slider-image-align-left"><div id="sp-slider-inner-item-1657107342616-num-0-key" class="sppb-sp-slider-image avatar" data-layer="true" data-animation='{"type":"slide","direction":"right","from":"50%", "to":"0%","duration":"800","after":"400", "timing_function":"ease"}'><img src="/images/2022/07/06/student2.jpg" alt="THE AMAZING SLIDESHOW ADDON!"></div><div id="sp-slider-inner-item-1657107342616-num-1-key" class="sppb-sp-slider-image icon" data-layer="true" data-animation='{"type":"slide","direction":"left","from":"50%", "to":"0%","duration":"800","after":"1000", "timing_function":"ease"}'><img src="https://sppagebuilder.com/images/2021/consultancy-firm/comma.svg" alt=""></div></div></div><div class="sppb-col-xs-12 sppb-col-sm-7 sppb-col-md-8"><div class="sp-slider-content-align-left"><div id="sp-slider-inner-item-1657107342616-num-2-key" class="sppb-sp-slider-text" data-layer="true" data-animation='{"type":"slide","direction":"bottom","from":"50%", "to":"0%","duration":"800","after":"1000", "timing_function":"linear"}'><p style="text-align: right;" data-uw-styling-context="true"><span data-uw-styling-context="true">أياً كانت كليتك داخل جامعة المنصورة فانت اكيد هتحب الجامعة لأنك لما بتشترك في أي نشاط طلابي بتتيحه الجامعة أو منظمة تابعة للجامعة بتحس إنك عملت إنجاز ولو صغير وكمان بتديك ثقة أكبر في نفسك وبتتعلم تشتغل وتفكر أحسن وتخطط لبعيد وتكتسب مهارات مختلفة</span></p></div><h2 id="sp-slider-inner-item-1657107342616-num-3-key" class="sppb-sp-slider-title" data-layer="true" data-animation='{"type":"slide","direction":"bottom","from":"50%", "to":"0%","duration":"900","after":"1100", "timing_function":"linear"}'>عمر ونيس قورة
+</h2><div id="sp-slider-inner-item-1657107342616-num-4-key" class="sppb-sp-slider-text" data-layer="true" data-animation='{"type":"slide","direction":"bottom","from":"50%", "to":"0%","duration":"900","after":"1100", "timing_function":"linear"}'>الفرقة الرابعة كلية العلوم
+</div></div></div></div></div></div></div></div><div id="sp-slider-item-1657107342614-num-2-key" class="sp-item  slider-content-vercally-center"><div class="sppb-container"><div class="sppb-row"><div class="sppb-col-sm-12"><div class="sppb-row"><div class="sppb-col-xs-12 sppb-col-sm-5 sppb-col-md-4  image-align-left"><div class="sp-slider-image-align-left"><div id="sp-slider-inner-item-1657107342617-num-0-key" class="sppb-sp-slider-image avatar" data-layer="true" data-animation='{"type":"slide","direction":"right","from":"50%", "to":"0%","duration":"800","after":"1000", "timing_function":"ease"}'><img src="/images/2022/07/06/student3.jpg" alt="THE AMAZING SLIDESHOW ADDON!"></div><div id="sp-slider-inner-item-1657107342617-num-1-key" class="sppb-sp-slider-image icon" data-layer="true" data-animation='{"type":"slide","direction":"left","from":"50%", "to":"0%","duration":"800","after":"1000", "timing_function":"ease"}'><img src="https://sppagebuilder.com/images/2021/consultancy-firm/comma.svg" alt=""></div></div></div><div class="sppb-col-xs-12 sppb-col-sm-7 sppb-col-md-8"><div class="sp-slider-content-align-left"><div id="sp-slider-inner-item-1657107342617-num-2-key" class="sppb-sp-slider-text" data-layer="true" data-animation='{"type":"slide","direction":"bottom","from":"50%", "to":"0%","duration":"800","after":"1000", "timing_function":"linear"}'><p style="direction: rtl;">أحب في جامعة المنصورة إصرار كل من فيها على النجاح، لا أقصد فقط الطلاب، لكن أيضا إصرار الإدارة على تطوير الجامعة من أبنية ومعامل وطرق تدريس وتدريب، وإصرار القائمين على الأنشطة الطلابية أن يجعلوا حياة الطلاب الجامعية أفضل تجربة</p></div><h2 id="sp-slider-inner-item-1657107342617-num-3-key" class="sppb-sp-slider-title" data-layer="true" data-animation='{"type":"slide","direction":"bottom","from":"50%", "to":"0%","duration":"900","after":"1100", "timing_function":"linear"}'>أحمد مطاوع
+</h2><div id="sp-slider-inner-item-1657107342617-num-4-key" class="sppb-sp-slider-text" data-layer="true" data-animation='{"type":"slide","direction":"bottom","from":"50%", "to":"0%","duration":"900","after":"1100", "timing_function":"linear"}'>الفرقة الرابعة كلية العلوم
+
+</div></div></div></div></div></div></div></div><div id="sp-slider-item-1657107342614-num-3-key" class="sp-item  slider-content-vercally-center"><div class="sppb-container"><div class="sppb-row"><div class="sppb-col-sm-12"><div class="sppb-row"><div class="sppb-col-xs-12 sppb-col-sm-5 sppb-col-md-4  image-align-left"><div class="sp-slider-image-align-left"><div id="sp-slider-inner-item-1657107342618-num-0-key" class="sppb-sp-slider-image avatar" data-layer="true" data-animation='{"type":"slide","direction":"right","from":"50%", "to":"0%","duration":"800","after":"1000", "timing_function":"ease"}'><img src="/images/2022/07/06/student4.jpg" alt="THE AMAZING SLIDESHOW ADDON!"></div><div id="sp-slider-inner-item-1657107342618-num-1-key" class="sppb-sp-slider-image icon" data-layer="true" data-animation='{"type":"slide","direction":"left","from":"50%", "to":"0%","duration":"800","after":"1000", "timing_function":"ease"}'><img src="https://sppagebuilder.com/images/2021/consultancy-firm/comma.svg" alt=""></div></div></div><div class="sppb-col-xs-12 sppb-col-sm-7 sppb-col-md-8"><div class="sp-slider-content-align-left"><div id="sp-slider-inner-item-1657107342618-num-2-key" class="sppb-sp-slider-text" data-layer="true" data-animation='{"type":"slide","direction":"bottom","from":"50%", "to":"0%","duration":"800","after":"1000", "timing_function":"linear"}'><p style="direction: rtl;">تجربة تعليمية ممتازة وأصدقاء جدد وذكريات لا تُنسى اكتسبتها خلال دراستي في جامعة المنصورة كجزء من برنامج التبادل الطلابي لإيراسموس ... شكرًا لكم.</p></div><h2 id="sp-slider-inner-item-1657107342618-num-3-key" class="sppb-sp-slider-title" data-layer="true" data-animation='{"type":"slide","direction":"bottom","from":"50%", "to":"0%","duration":"900","after":"1100", "timing_function":"linear"}'>بلقيس أوسماني ( مقدونيا )</h2><div id="sp-slider-inner-item-1657107342618-num-4-key" class="sppb-sp-slider-text" data-layer="true" data-animation='{"type":"slide","direction":"bottom","from":"50%", "to":"0%","duration":"900","after":"1100", "timing_function":"linear"}'>
+</div></div></div></div></div></div></div></div><div id="sp-slider-item-1657107342614-num-4-key" class="sp-item  slider-content-vercally-center"><div class="sppb-container"><div class="sppb-row"><div class="sppb-col-sm-12"><div class="sppb-row"><div class="sppb-col-xs-12 sppb-col-sm-5 sppb-col-md-4  image-align-left"><div class="sp-slider-image-align-left"><div id="sp-slider-inner-item-1657107342619-num-0-key" class="sppb-sp-slider-image avatar" data-layer="true" data-animation='{"type":"slide","direction":"right","from":"50%", "to":"0%","duration":"800","after":"1000", "timing_function":"ease"}'><img src="/images/2022/07/06/student5.jpg" alt="THE AMAZING SLIDESHOW ADDON!"></div><div id="sp-slider-inner-item-1657107342619-num-1-key" class="sppb-sp-slider-image icon" data-layer="true" data-animation='{"type":"slide","direction":"left","from":"50%", "to":"0%","duration":"800","after":"1000", "timing_function":"ease"}'><img src="https://sppagebuilder.com/images/2021/consultancy-firm/comma.svg" alt=""></div></div></div><div class="sppb-col-xs-12 sppb-col-sm-7 sppb-col-md-8"><div class="sp-slider-content-align-left"><div id="sp-slider-inner-item-1657107342619-num-2-key" class="sppb-sp-slider-text" data-layer="true" data-animation='{"type":"slide","direction":"bottom","from":"50%", "to":"0%","duration":"800","after":"1000", "timing_function":"linear"}'><p style="direction: rtl;">أشكر جامعة المنصورة و مكتب العلاقات الدولية علي حسن الاستقبال و حفاوة الضيافة.</p></div><h2 id="sp-slider-inner-item-1657107342619-num-3-key" class="sppb-sp-slider-title" data-layer="true" data-animation='{"type":"slide","direction":"bottom","from":"50%", "to":"0%","duration":"900","after":"1100", "timing_function":"linear"}'>اندريت سيجدي ( مقدونيا )
+</h2><div id="sp-slider-inner-item-1657107342619-num-4-key" class="sppb-sp-slider-text" data-layer="true" data-animation='{"type":"slide","direction":"bottom","from":"50%", "to":"0%","duration":"900","after":"1100", "timing_function":"linear"}'>
+
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></section><section id="section-id-1604575238202" class="sppb-section black-inset-shadow-10 sppb-wow fadeIn"  data-sppb-wow-duration="300ms" data-sppb-wow-delay="500ms"><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1604575238203"><div id="column-id-1604575238203" class="sppb-column  sppb-wow fadeInRight"  data-sppb-wow-duration="500ms" data-sppb-wow-delay="200ms"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1676288037877" class="sppb-addon-wrapper"><div id="sppb-addon-1676288037877" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-center "><h3 class="sppb-addon-title">جامعة المنصورة في أرقام</h3><div class="sppb-addon-content"><span style="font-size: 12pt;">إحصائيات توضح حجم العمل بجامعة المنصورة</span></div></div></div></div></div></div></div><div class="sppb-col-md-6" id="column-wrap-id-1604575238207"><div id="column-id-1604575238207" class="sppb-column  sppb-wow fadeInDown"  data-sppb-wow-duration="500ms"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1604575238212" class="sppb-addon-wrapper"><div id="sppb-addon-1604575238212" class="clearfix "     ><div class="sppb-addon sppb-addon-pie-progress "><div class="sppb-addon-content sppb-text-center"><div class="sppb-pie-chart" data-size="110" data-percent="100" data-width="2" data-barcolor="#f14833" data-animate="2000" data-trackcolor="rgba(255, 222, 217, 1)" style="height:110px; width:110px;"><div class="sppb-chart-icon"><span><i class="fa fa-user-circle" style="font-size:36px;line-height:37px;width:36px;height:36px;color:#e83d34;"></i></span></div></div><div class="sppb-addon-text"><p>أكثر من</p></div></div></div></div></div><div id="sppb-addon-wrapper-1604575238213" class="sppb-addon-wrapper"><div id="sppb-addon-1604575238213" class="clearfix "     ><div class="sppb-empty-space clearfix"></div></div></div><div id="sppb-addon-wrapper-1604575238214" class="sppb-addon-wrapper"><div id="sppb-addon-1604575238214" class="clearfix "     ><div class="sppb-addon sppb-addon-animated-number sppb-text-center major_color"><div class="sppb-addon-content" style=""><span class="sppb-animated-number" data-digit="8023" data-duration="3000">0</span><div class="sppb-animated-number-title">عدد أعضاء هيئة التدريس</div></div></div></div></div></div></div></div><div class="sppb-col-md-6" id="column-wrap-id-1676288037880"><div id="column-id-1676288037880" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1604575238216" class="sppb-addon-wrapper"><div id="sppb-addon-1604575238216" class="clearfix "     ><div class="sppb-addon sppb-addon-pie-progress "><div class="sppb-addon-content sppb-text-center"><div class="sppb-pie-chart" data-size="110" data-percent="100" data-width="2" data-barcolor="#f14833" data-animate="2000" data-trackcolor="rgba(255, 222, 217, 1)" style="height:110px; width:110px;"><div class="sppb-chart-icon"><span><i class="fa fa-id-card" style="font-size:36px;line-height:37px;width:36px;height:36px;color:#e83d34;"></i></span></div></div><div class="sppb-addon-text"><p>أكثر من</p></div></div></div></div></div><div id="sppb-addon-wrapper-1604575238217" class="sppb-addon-wrapper"><div id="sppb-addon-1604575238217" class="clearfix "     ><div class="sppb-empty-space clearfix"></div></div></div><div id="sppb-addon-wrapper-1604575238218" class="sppb-addon-wrapper"><div id="sppb-addon-1604575238218" class="clearfix "     ><div class="sppb-addon sppb-addon-animated-number sppb-text-center "><div class="sppb-addon-content" style=""><span class="sppb-animated-number" data-digit="27063" data-duration="3000">0</span><div class="sppb-animated-number-title">عدد العاملين بالكادر العام - مثبت</div></div></div></div></div></div></div></div></div></div></section><section id="section-id-1602284921207" class="sppb-section sppb-element-lazy sppb-wow fadeIn sppb-section-content-center"  data-sppb-wow-duration="300ms" data-sppb-wow-delay="500ms"><div class="sppb-row-overlay"></div><div class="sppb-row-container"><div class="sppb-row sppb-align-center"><div class="sppb-col-md-5" id="column-wrap-id-1602284921165"><div id="column-id-1602284921165" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1620489707177" class="sppb-addon-wrapper"><div id="sppb-addon-1620489707177" class="clearfix "     ><div class="sppb-addon sppb-addon-button-group sppb-text-center"><div class="sppb-addon-content"><a href="/faq" id="btn-1620489707177" class="sppb-btn  sppb-btn-primary sppb-btn-lg sppb-btn-rounded sppb-btn-flat">الأسئلة الشائعة</a></div></div></div></div></div></div></div><div class="sppb-col-md-7" id="column-wrap-id-1602284921163"><div id="column-id-1602284921163" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1602348895870" class="sppb-addon-wrapper"><div id="sppb-addon-1602348895870" class="clearfix "     ><div class="sppb-addon sppb-addon-module "><div class="sppb-addon-content"><script type="text/javascript">
+        <!--
+        window.addEventListener("DOMContentLoaded", (event) => {
+acymModule["excludeValuesformAcym20401"] = [];
+acymModule["excludeValuesformAcym20401"]["2"] = 'Email';  });
+        //-->
+        </script>	<div class="acym_module " id="acym_module_formAcym20401">
+		<div class="acym_fulldiv" id="acym_fulldiv_formAcym20401" style="text-align: right">
+			<form enctype="multipart/form-data"
+				  id="formAcym20401"
+				  name="formAcym20401"
+				  method="POST"
+				  action="/component/acym/frontusers?tmpl=component"
+				  onsubmit="return submitAcymForm('subscribe','formAcym20401', 'acymSubmitSubForm')">
+				<div class="acym_module_form">
+                    <div class="acym_introtext">اشترك في نشرتنا الإخبارية ليصلك كل جديد</div>
+<table class="acym_form">
+	<tr>
+        <td class="acyfield_2 acyfield_text"><input  name="user[email]" placeholder="Email" value="" required type="email" class="cell acym__user__edit__email" ></td>
+		<td  class="acysubbuttons">
+			<noscript>
+				<div class="onefield fieldacycaptcha">
+                    Please enable the javascript to submit this form				</div>
+			</noscript>
+			<input type="button"
+				   class="btn btn-primary button subbutton"
+				   value="اشترك الأن"
+				   name="Submit"
+				   onclick="try{ return submitAcymForm('subscribe','formAcym20401', 'acymSubmitSubForm'); }catch(err){alert('The form could not be submitted '+err);return false;}" />
+            		</td>
+	</tr>
+</table>
+				</div>
+
+				<input type="hidden" name="ctrl" value="frontusers" />
+				<input type="hidden" name="task" value="notask" />
+				<input type="hidden" name="option" value="com_acym" />
+
+                
+				<input type="hidden" name="ajax" value="1" />
+				<input type="hidden" name="successmode" value="replace" />
+				<input type="hidden" name="acy_source" value="Module n°499" />
+				<input type="hidden" name="hiddenlists" value="1,2" />
+				<input type="hidden" name="fields" value="name,email" />
+				<input type="hidden" name="acyformname" value="formAcym20401" />
+				<input type="hidden" name="acysubmode" value="mod_acym" />
+				<input type="hidden" name="confirmation_message" value="" />
+
+                			</form>
+		</div>
+	</div>
+</div></div></div></div><div id="sppb-addon-wrapper-1602349755900" class="sppb-addon-wrapper"><div id="sppb-addon-1602349755900" class="clearfix "     ><div class="sppb-addon sppb-addon-icons-group  icons-group-title-postion-top sppb-text-center"><ul class="sppb-icons-group-list"><li id="icon-1602349755901" class=""><a href="https://www.facebook.com/MansouraUniversityOfficial/" aria-label="facebook" rel="noopener noreferrer" target="_blank"><i class="fab fa-facebook-f " aria-hidden="true" title="facebook"></i></a></li><li id="icon-1602349755902" class=""><a href="https://twitter.com/Mansoura_un" aria-label="twitter" rel="noopener noreferrer" target="_blank"><i class="fab fa-twitter " aria-hidden="true" title="twitter"></i></a></li><li id="icon-1602349755903" class=""><a href="https://www.instagram.com/mansourauniversityofficial/" aria-label="instagram" rel="noopener noreferrer" target="_blank"><i class="fab fa-instagram " aria-hidden="true" title="instagram"></i></a></li><li id="icon-1602349755904" class=""><a href="https://www.pinterest.com/mansuniv/_created/" aria-label="pinterest" rel="noopener noreferrer" target="_blank"><i class="fab fa-pinterest-p " aria-hidden="true" title="pinterest"></i></a></li><li id="icon-1602349755905" class=""><a href="https://www.youtube.com/mansvu" aria-label="youtube" rel="noopener noreferrer" target="_blank"><i class="fab fa-youtube " aria-hidden="true" title="youtube"></i></a></li><li id="icon-1602349755906" class=""><a href="https://www.linkedin.com/school/mansoura-university-official" aria-label="linkedin" rel="noopener noreferrer" target="_blank"><i class="fab fa-linkedin-in " aria-hidden="true" title="linkedin"></i></a></li><li id="icon-1602349755907" class=""><a href="https://mansuniv.wordpress.com/" aria-label="wordpress" rel="noopener noreferrer" target="_blank"><i class="fab fa-wordpress-simple " aria-hidden="true" title="wordpress"></i></a></li><li id="icon-1602349755908" class=""><a href="http://mansuniv.blogspot.com/" aria-label="blogger" rel="noopener noreferrer" target="_blank"><i class="fab fa-blogger-b " aria-hidden="true" title="blogger"></i></a></li><li id="icon-1602349755909" class=""><a href="https://t.me/Mansoura_University" aria-label="Telegram" rel="noopener noreferrer" target="_blank"><i class="fab fa-telegram-plane " aria-hidden="true" title="Telegram"></i></a></li><li id="icon-1602349755910" class=""><a href="/about/connect" aria-label="contact us"><i class="fas fa-phone-volume " aria-hidden="true" title="contact us"></i></a></li></ul></div></div></div></div></div></div></div></div></section>		
+			</div>
+</div>
+</div></div></div></section><footer id="sp-footer"><div class="row"><div id="sp-footer1" class="col-sm-12 col-md-12"><div class="sp-column"><div class="sp-module "><div class="sp-module-content"><div class="mod-sppagebuilder  sp-page-builder" data-module_id="438">
+	<div class="page-content">
+		<div id="fac" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-6" id="column-wrap-id-1604439223892"><div id="column-id-1604439223892" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1604173544031" class="sppb-addon-wrapper"><div id="sppb-addon-1604173544031" class="clearfix "     ><div class="sppb-addon sppb-addon-header sppb-text-right"><h3 class="sppb-addon-title">كليات الجامعة</h3></div><style type="text/css">#sppb-addon-wrapper-1604173544031 {
+margin:30px 20px 0px 0px;}
+#sppb-addon-1604173544031 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1604173544031 {
+}
+#sppb-addon-1604173544031.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1604173544031 {}}@media (max-width: 767px) {#sppb-addon-1604173544031 {}}</style><style type="text/css">#sppb-addon-1604173544031 h3.sppb-addon-title {margin: 0px 0px 30px 0px; text-transform: none; padding: 0px 0px 0px 0px; }</style></div></div><div id="section-id-1604173137810" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-4" id="column-wrap-id-1604173137811"><div id="column-id-1604173137811" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1604952340245" class="sppb-addon-wrapper"><div id="sppb-addon-1604952340245" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-right "><div class="sppb-addon-content"><p><a href="http://engfac.mans.edu.eg/" target="_blank" rel="noopener">كلية الهندسة</a></p>
+<p><a href="http://medfac.mans.edu.eg/" target="_blank" rel="noopener">كلية الطب</a></p>
+<p><a href="http://agrfac.mans.edu.eg/" target="_blank" rel="noopener">كلية الزراعة</a></p>
+<p><a href="http://scifac.mans.edu.eg/" target="_blank" rel="noopener">كلية العلوم</a></p>
+<p><a href="http://edufac.mans.edu.eg/" target="_blank" rel="noopener">كلية التربية</a></p>
+<p><a href="http://dentfac.mans.edu.eg/" target="_blank" rel="noopener">كلية طب الأسنان</a></p></div></div><style type="text/css">#sppb-addon-1604952340245 a {
+	color: #000000;
+}
+#sppb-addon-1604952340245 a:hover,
+#sppb-addon-1604952340245 a:focus,
+#sppb-addon-1604952340245 a:active {
+	color: #e0978f;
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1604952340245 {}}@media (max-width: 767px) {#sppb-addon-1604952340245 {}}</style><style type="text/css">@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div></div></div></div><div class="sppb-col-md-4" id="column-wrap-id-1604173137814"><div id="column-id-1604173137814" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1604175500314" class="sppb-addon-wrapper"><div id="sppb-addon-1604175500314" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-right "><div class="sppb-addon-content"><p><a href="http://pharfac.mans.edu.eg/" target="_blank" rel="noopener">كلية الصيدلة</a></p>
+<p><a href="http://comfac.mans.edu.eg/" target="_blank" rel="noopener">كلية&nbsp;التجارة</a></p>
+<p><a href="http://lawfac.mans.edu.eg/" target="_blank" rel="noopener">كلية الحقوق</a></p>
+<p><a href="http://artsfac.mans.edu.eg/" target="_blank" rel="noopener">كلية الآداب</a></p>
+<p><a href="http://sefac.mans.edu.eg/" target="_blank" rel="noopener">كلية التربية النوعية</a></p>
+<p><a href="http://vetfac.mans.edu.eg/" target="_blank" rel="noopener">كلية الطب البيطرى</a></p></div></div><style type="text/css">#sppb-addon-1604175500314 a {
+	color: #000000;
+}
+#sppb-addon-1604175500314 a:hover,
+#sppb-addon-1604175500314 a:focus,
+#sppb-addon-1604175500314 a:active {
+	color: #e0978f;
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1604175500314 {}}@media (max-width: 767px) {#sppb-addon-1604175500314 {}}</style><style type="text/css">@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div></div></div></div><div class="sppb-col-md-4" id="column-wrap-id-1605008306631"><div id="column-id-1605008306631" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1604175500294" class="sppb-addon-wrapper"><div id="sppb-addon-1604175500294" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-right "><div class="sppb-addon-content"><p><a href="http://nurfac.mans.edu.eg/" target="_blank" rel="noopener noreferrer">كلية التمريض</a></p>
+<p><a href="http://kinderfac.mans.edu.eg/" target="_blank" rel="noopener noreferrer">كلية التربية للطفولة المبكرة</a></p>
+<p><a href="https://spofac.mans.edu.eg/" target="_blank" rel="noopener noreferrer">كلية التربية الرياضية</a></p>
+<p><a href="http://csifac.mans.edu.eg/" target="_blank" rel="noopener noreferrer">كلية الحاسبات والمعلومات</a></p>
+<p><a href="http://thfac.mans.edu.eg/" target="_blank" rel="noopener noreferrer">كلية السياحة والفنادق</a></p>
+<p><a href="http://fineartsfac.mans.edu.eg/" target="_blank" rel="noopener noreferrer">كلية الفنون الجميلة</a></p></div></div><style type="text/css">#sppb-addon-1604175500294 a {
+	color: #000000;
+}
+#sppb-addon-1604175500294 a:hover,
+#sppb-addon-1604175500294 a:focus,
+#sppb-addon-1604175500294 a:active {
+	color: #e0978f;
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1604175500294 {}}@media (max-width: 767px) {#sppb-addon-1604175500294 {}}</style><style type="text/css">@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div></div></div></div></div></div></div><style type="text/css">.sp-page-builder .page-content #section-buttons{padding-top:50px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) { .sp-page-builder .page-content #section-buttons{padding-top:12px;padding-right:38px;padding-bottom:12px;padding-left:38px;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;} }#column-id-1676371730488{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;box-shadow:0 0 0 0 #fff;}#column-wrap-id-1676371730488{margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;}#column-id-1676371730490{background-color:#005965;}#column-id-1676371730490 > .sppb-column-overlay {mix-blend-mode:multiply;}.sp-page-builder .page-content #fac{padding-top:0;padding-right:0;padding-bottom:0;padding-left:15px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;color:#000000;background-color:#e6e6e6;box-shadow:0 0 0 0 #ffffff;}#column-id-1604439223892{background-color:#f1f1f1;}.sp-page-builder .page-content #section-id-1604173137810{padding-top:0;padding-right:15px;padding-bottom:50px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1604173137811{box-shadow:0 0 0 0 #fff;}</style></div></div></div><div class="sppb-col-md-6" id="column-wrap-id-1604436569541"><div id="column-id-1604436569541" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1604436569544" class="sppb-addon-wrapper"><div id="sppb-addon-1604436569544" class="clearfix "     ><div class="sppb-addon sppb-addon-header sppb-text-right"><h3 class="sppb-addon-title">البرامج النوعية حسب الكليات (طلاب - دراسات العليا)</h3></div><style type="text/css">#sppb-addon-wrapper-1604436569544 {
+margin:30px 0px 0px 0px;}
+#sppb-addon-1604436569544 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1604436569544 {
+}
+#sppb-addon-1604436569544.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1604436569544 {}}@media (max-width: 767px) {#sppb-addon-1604436569544 {}}</style><style type="text/css">#sppb-addon-1604436569544 h3.sppb-addon-title {margin: 0px 0px 30px 0px; text-transform: none; padding: 0px 0px 0px 0px; }</style></div></div><div id="section-id-1604436569545" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-4" id="column-wrap-id-1604436569546"><div id="column-id-1604436569546" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1604173440700" class="sppb-addon-wrapper"><div id="sppb-addon-1604173440700" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-right "><div class="sppb-addon-content"><p><a href="/faculty-of-engineering/233-programs/engineering">برامج كلية الهندسة</a></p>
+<p><a href="/faculty-of-medicine/230-programs/medicine">برامج&nbsp;كلية الطب</a></p>
+<p><a href="/faculty-of-agriculture/237-programs/agriculture">برامج كلية الزراعة</a></p>
+<p><a href="/faculty-of-science/234-programs/science">برامج كلية العلوم</a></p>
+<p><a href="/faculty-of-education/243-programs/education">برامج كلية التربية</a></p>
+<p><a href="/faculty-of-dentistry/231-programs/dentistry">برامج&nbsp;كلية طب الأسنان&nbsp;</a></p></div></div><style type="text/css">#sppb-addon-1604173440700 a {
+	color: #000000;
+}
+#sppb-addon-1604173440700 a:hover,
+#sppb-addon-1604173440700 a:focus,
+#sppb-addon-1604173440700 a:active {
+	color: #e0978f;
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1604173440700 {}}@media (max-width: 767px) {#sppb-addon-1604173440700 {}}</style><style type="text/css">@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div></div></div></div><div class="sppb-col-md-4" id="column-wrap-id-1604436569551"><div id="column-id-1604436569551" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1604437941776" class="sppb-addon-wrapper"><div id="sppb-addon-1604437941776" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-right "><div class="sppb-addon-content"><p><a href="/faculty-of-pharmacy/232-programs/pharmacy">برامج&nbsp;كلية الصيدلة&nbsp;</a></p>
+<p><a href="/faculty-of-commerce/242-programs/commerce">برامج كلية التجارة</a><a href="/index.php/portfolio/masonry/2-columns-default/21-medical-informatics-program"><br /></a></p>
+<p><a href="/faculty-of-arts/240-programs/arts">برامج كلية آداب</a></p>
+<p><a href="/faculty-of-education-quality/247-programs/faculty-of-specific-education">برامج كلية التربية النوعية</a></p>
+<p><a href="/faculty-of-veterinary-medicine/236-programs/veterinary-medicine">برامج كلية الطب البيطرى</a></p></div></div><style type="text/css">#sppb-addon-wrapper-1604437941776 {
+margin:1px 0px 0px 0px;}
+#sppb-addon-1604437941776 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1604437941776 {
+}
+#sppb-addon-1604437941776.sppb-element-loaded {
+}
+#sppb-addon-1604437941776 a {
+	color: #1e1e1e;
+}
+#sppb-addon-1604437941776 a:hover,
+#sppb-addon-1604437941776 a:focus,
+#sppb-addon-1604437941776 a:active {
+	color: #e0978f;
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1604437941776 {}}@media (max-width: 767px) {#sppb-addon-1604437941776 {}}</style><style type="text/css">@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div></div></div></div><div class="sppb-col-md-4" id="column-wrap-id-1605008306628"><div id="column-id-1605008306628" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1604437798462" class="sppb-addon-wrapper"><div id="sppb-addon-1604437798462" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-right "><div class="sppb-addon-content"><p><a href="/faculty-of-nursing/238-programs/nursing">برامج كلية التمريض</a></p>
+<p><a href="/faculty-of-early-childhood-education/239-programs/childhood-education">برامج كلية التربية للطفولة المبكرة</a></p>
+<p><a href="/faculty-of-physical-education/248-programs/faculty-of-physical-education">برامج كلية التربية الرياضية</a></p>
+<p><a href="/faculty-of-computing-and-information/235-programs/computing-and-information">برامج كلية الحاسبات والمعلومات</a></p></div></div><style type="text/css">#sppb-addon-wrapper-1604437798462 {
+margin:1px 0px 0px 0px;}
+#sppb-addon-1604437798462 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1604437798462 {
+}
+#sppb-addon-1604437798462.sppb-element-loaded {
+}
+#sppb-addon-1604437798462 a {
+	color: #1e1e1e;
+}
+#sppb-addon-1604437798462 a:hover,
+#sppb-addon-1604437798462 a:focus,
+#sppb-addon-1604437798462 a:active {
+	color: #e0978f;
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1604437798462 {}}@media (max-width: 767px) {#sppb-addon-1604437798462 {}}</style><style type="text/css">@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div></div></div></div></div></div></div><style type="text/css">.sp-page-builder .page-content #section-buttons{padding-top:50px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) { .sp-page-builder .page-content #section-buttons{padding-top:12px;padding-right:38px;padding-bottom:12px;padding-left:38px;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;} }#column-id-1676371730488{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;box-shadow:0 0 0 0 #fff;}#column-wrap-id-1676371730488{margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;}#column-id-1676371730490{background-color:#005965;}#column-id-1676371730490 > .sppb-column-overlay {mix-blend-mode:multiply;}.sp-page-builder .page-content #fac{padding-top:0;padding-right:0;padding-bottom:0;padding-left:15px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;color:#000000;background-color:#e6e6e6;box-shadow:0 0 0 0 #ffffff;}#column-id-1604439223892{background-color:#f1f1f1;}.sp-page-builder .page-content #section-id-1604173137810{padding-top:0;padding-right:15px;padding-bottom:50px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1604173137811{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1604436569545{padding-top:0;padding-right:0px;padding-bottom:0;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1604436569546{box-shadow:0 0 0 0 #fff;}</style></div></div></div></div></div></div><div id="contact-us" class="sppb-section sppb-element-lazy" ><div class="sppb-row-overlay"></div><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-4" id="column-wrap-id-1602845361046"><div id="column-id-1602845361046" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1602840699810" class="sppb-addon-wrapper"><div id="sppb-addon-1602840699810" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-right "><h3 class="sppb-addon-title">روابط هامة</h3><div class="sppb-addon-content"></div></div><style type="text/css">#sppb-addon-1602840699810 a:hover,
+#sppb-addon-1602840699810 a:focus,
+#sppb-addon-1602840699810 a:active {
+	color: #e0978f;
+}
+#sppb-addon-1602840699810 .sppb-addon-title {
+margin-bottom:30px;color:#e0978f;}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1602840699810 {}}@media (max-width: 767px) {#sppb-addon-1602840699810 {}}</style><style type="text/css">@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div><div id="section-id-1602843315116" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-6" id="column-wrap-id-1602843315117"><div id="column-id-1602843315117" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1602843315133" class="sppb-addon-wrapper"><div id="sppb-addon-1602843315133" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-right "><div class="sppb-addon-content"><p><a href="http://esa.mans.edu.eg/" target="_blank" rel="noopener">قطاع شئون التعليم والطلاب</a></p>
+<p><a href="http://pgsr.mans.edu.eg/" target="_blank" rel="noopener">قطاع شئون الدراسات العليا والبحوث</a></p>
+<p><a href="http://env.mans.edu.eg/" target="_blank" rel="noopener">قطاع خدمة المجتمع وتنمية البيئة</a></p>
+<p><a href="http://musg.mans.edu.eg/" target="_blank" rel="noopener">قطاع أمين عام الجامعة</a></p>
+<p><a href="http://muiro.mans.edu.eg/" target="_blank" rel="noopener noreferrer">مكتب العلاقات الدولية</a></p>
+<p><a href="http://sada.mans.edu.eg/" target="_blank" rel="noopener">صحيفة جامعة المنصورة الإلكترونية</a></p>
+<p><a href="http://mumm.mans.edu.eg/islam/quran/default.htm" target="_blank" rel="noopener noreferrer">القرآن الكريم</a></p>
+<p><a href="http://www3.mans.edu.eg/netadmin/" target="_blank" rel="noopener noreferrer">شبكة المعلومات</a></p>
+<p><a href="/services/voip" target="_blank" rel="noreferrer">دليل تليفونات الانترنت</a></p></div></div><style type="text/css">#sppb-addon-1602843315133 a:hover,
+#sppb-addon-1602843315133 a:focus,
+#sppb-addon-1602843315133 a:active {
+	color: #e0978f;
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1602843315133 {}}@media (max-width: 767px) {#sppb-addon-1602843315133 {}}</style><style type="text/css">@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div></div></div></div><div class="sppb-col-md-6" id="column-wrap-id-1602843315120"><div id="column-id-1602843315120" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1602843315128" class="sppb-addon-wrapper"><div id="sppb-addon-1602843315128" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-right "><div class="sppb-addon-content"><p><a href="/images/files/2020/12/01.pdf" target="_blank">قواعد مستوى جودة الأعمال لأنظمة الجامعة الإلكترونية</a></p>
+<p><a href="/about/quality-policy">سياسة الجودة</a></p>
+<p><a href="/about/privacy-policy" target="_blank" rel="noopener">سياسة الخصوصية</a></p>
+<p><a href="/images/files/2021/05/netiquette.pdf" target="_blank">قواعد آداب وأخلاقيات الإنترنت</a></p>
+<p><a href="https://acuc.mans.edu.eg/" target="_blank" rel="noopener">لجنة اخلاقيات وقواعد استخدام الحيوان فى البحث العلمى</a></p>
+<p><a href="http://sh.mans.edu.eg/" target="_blank" rel="noopener noreferrer">المدن الجامعية</a></p>
+<p><a href="http://olympic.mans.edu.eg/" target="_blank" rel="noopener noreferrer">القرية الأولمبية</a></p>
+<p><a href="http://clibrary.mans.edu.eg/" target="_blank" rel="noopener noreferrer">المكتبة المركزية</a></p></div></div><style type="text/css">#sppb-addon-1602843315128 a:hover,
+#sppb-addon-1602843315128 a:focus,
+#sppb-addon-1602843315128 a:active {
+	color: #e0978f;
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1602843315128 {}}@media (max-width: 767px) {#sppb-addon-1602843315128 {}}</style><style type="text/css">@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div></div></div></div></div></div></div><style type="text/css">.sp-page-builder .page-content #section-buttons{padding-top:50px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) { .sp-page-builder .page-content #section-buttons{padding-top:12px;padding-right:38px;padding-bottom:12px;padding-left:38px;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;} }#column-id-1676371730488{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;box-shadow:0 0 0 0 #fff;}#column-wrap-id-1676371730488{margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;}#column-id-1676371730490{background-color:#005965;}#column-id-1676371730490 > .sppb-column-overlay {mix-blend-mode:multiply;}.sp-page-builder .page-content #fac{padding-top:0;padding-right:0;padding-bottom:0;padding-left:15px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;color:#000000;background-color:#e6e6e6;box-shadow:0 0 0 0 #ffffff;}#column-id-1604439223892{background-color:#f1f1f1;}.sp-page-builder .page-content #section-id-1604173137810{padding-top:0;padding-right:15px;padding-bottom:50px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1604173137811{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1604436569545{padding-top:0;padding-right:0px;padding-bottom:0;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1604436569546{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #contact-us{padding-right:20px;padding-bottom:0;padding-left:20px;margin-top:0px;background-color:#00272b;background-repeat:inherit;background-size:contain;background-attachment:inherit;background-position:50% 50%;}.sp-page-builder .page-content #contact-us{background-image:url(https://res.cloudinary.com/joomshaper/image/upload/v1582107175/placeholder.svg);}.sp-page-builder .page-content #contact-us.sppb-element-loaded {background-image:url(/images/svg/section-background-stripes2.svg);}.sp-page-builder .page-content #section-id-1602843315116{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1602843315117{box-shadow:0 0 0 0 #fff;}</style></div></div></div><div class="sppb-col-md-4" id="column-wrap-id-1482796178"><div id="column-id-1482796178" class="sppb-column  sppb-wow fadeInLeft"  data-sppb-wow-duration="500ms" data-sppb-wow-delay="200ms"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1620747338287" class="sppb-addon-wrapper"><div id="sppb-addon-1620747338287" class="clearfix "     ><div class="sppb-addon sppb-addon-raw-html "><div class="sppb-addon-content"><p><a href="https://goo.gl/maps/udgv5rG22PfnhMZ59" target="_blank" rel="noopener"><img src="/images/2020/11/24/map0.jpg" alt="mans_map" style="display: block; margin-left: auto; margin-right: auto;" /></a></p></div></div><style type="text/css">#sppb-addon-wrapper-1620747338287 {
+margin:0px 0px 30px 0px;}
+#sppb-addon-1620747338287 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1620747338287 {
+}
+#sppb-addon-1620747338287.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1620747338287 {}}@media (max-width: 767px) {#sppb-addon-1620747338287 {}}</style></div></div><div id="sppb-addon-wrapper-1608145479626" class="sppb-addon-wrapper"><div id="sppb-addon-1608145479626" class="clearfix "     ><div class="sppb-addon sppb-addon-module "><div class="sppb-addon-content"><dl class="stats-module">
+	<dt>عدد الزيارات</dt>
+	<dd>30668884</dd>
+</dl>
+</div></div><style type="text/css">#sppb-addon-1608145479626 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1608145479626 {
+}
+#sppb-addon-1608145479626.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1608145479626 {}}@media (max-width: 767px) {#sppb-addon-1608145479626 {}}</style></div></div><div id="sppb-addon-wrapper-1620654360364" class="sppb-addon-wrapper"><div id="sppb-addon-1620654360364" class="clearfix "     ><div class="sppb-addon sppb-addon-module "><div class="sppb-addon-content">
+<div class="">
+    <div class="cw-mod-traffic-100" id="cw-traffic-498">
+        <div class="cwt-hor">
+            <ul class="cwt-hor-items">
+                                                                                                    <li>
+                        زيارات اليوم فقط 3115                    </li>
+                                                                                                                                	
+                            </ul>
+            <div style='clear:both'></div>
+        </div>
+    </div>
+</div>
+</div></div><style type="text/css">#sppb-addon-wrapper-1620654360364 {
+margin:0px 0px 30px 0px;}
+#sppb-addon-1620654360364 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1620654360364 {
+}
+#sppb-addon-1620654360364.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1620654360364 {}}@media (max-width: 767px) {#sppb-addon-1620654360364 {}}</style></div></div></div></div></div><div class="sppb-col-md-4" id="column-wrap-id-1482796185"><div id="column-id-1482796185" class="sppb-column centered sppb-wow fadeInUp"  data-sppb-wow-duration="500ms"><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1603140623298" class="sppb-addon-wrapper"><div id="sppb-addon-1603140623298" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-right "><h3 class="sppb-addon-title">ترتيب الجامعة بين جامعات العالم</h3><div class="sppb-addon-content"></div></div><style type="text/css">#sppb-addon-wrapper-1603140623298 {
+margin:0 0 0 60px;}
+#sppb-addon-1603140623298 a:hover,
+#sppb-addon-1603140623298 a:focus,
+#sppb-addon-1603140623298 a:active {
+	color: #e0978f;
+}
+#sppb-addon-1603140623298 .sppb-addon-title {
+margin-bottom:30px;color:#e0978f;}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1603140623298 {}}@media (max-width: 767px) {#sppb-addon-1603140623298 {}}</style><style type="text/css">@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div><div id="sppb-addon-wrapper-1603140623295" class="sppb-addon-wrapper"><div id="sppb-addon-1603140623295" class="clearfix "     ><div class="sppb-addon-overlayer"></div><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><ul style="text-align: left;">
+<li class="blocknumber blocknumber-3">
+<h4><a href="https://www.topuniversities.com/universities/mansoura-university" target="_blank" rel="noopener">QS - Top Universities</a></h4>
+</li>
+<li class="blocknumber blocknumber-3">
+<h4><a href="https://www.timeshighereducation.com/world-university-rankings/mansoura-university" target="_blank" rel="noopener">THE World Universities Ranknings</a>&nbsp;(&nbsp;<a href="https://www.timeshighereducation.com/impactrankings#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/undefined" target="_blank" rel="noopener">SDG Impact Rankings</a>&nbsp;-&nbsp;<a href="https://www.timeshighereducation.com/world-university-rankings/2021/emerging-economies-university-rankings#!/page/0/length/25/locations/EG/sort_by/rank/sort_order/asc/cols/stats" target="_blank" rel="noopener">Emerging Economics UR</a>&nbsp;)</h4>
+</li>
+<li class="blocknumber blocknumber-3">
+<h4><a href="https://www.4icu.org/eg/universities/" target="_blank" rel="noopener">4 International collages and Universities - 4ICU</a></h4>
+</li>
+<li class="blocknumber blocknumber-3">
+<h4><a href="http://www.webometrics.info/en/Ranking_africa" target="_blank" rel="noopener">Webometrics Ranking of World Universities</a></h4>
+</li>
+</ul></div></div><style type="text/css">#sppb-addon-wrapper-1603140623295 {
+margin:0 0 0 60px;}
+#sppb-addon-1603140623295 {
+position: relative;
+overflow: hidden;
+}
+#sppb-addon-1603140623295 {
+}
+#sppb-addon-1603140623295.sppb-element-loaded {
+}
+#sppb-addon-1603140623295 > .sppb-addon { position: relative; }
+#sppb-addon-1603140623295 a:hover,
+#sppb-addon-1603140623295 a:focus,
+#sppb-addon-1603140623295 a:active {
+	color: #e0978f;
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1603140623295 {}}@media (max-width: 767px) {#sppb-addon-1603140623295 {}}</style><style type="text/css">@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div><div id="sppb-addon-wrapper-1620747740096" class="sppb-addon-wrapper"><div id="sppb-addon-1620747740096" class="clearfix "     ><div class="sppb-addon sppb-addon-raw-html "><div class="sppb-addon-content"><p><a href="/index.php/about/mansoura-university-vs-corona-virus"><img src="/images/2020/10/31/covid-19.jpg" alt="covid-19" style="display: block; margin-left: auto; margin-right: auto;" /></a></p></div></div><style type="text/css">#sppb-addon-wrapper-1620747740096 {
+margin:0px 0px 30px 0px;}
+#sppb-addon-1620747740096 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1620747740096 {
+}
+#sppb-addon-1620747740096.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1620747740096 {}}@media (max-width: 767px) {#sppb-addon-1620747740096 {}}</style></div></div></div></div></div></div></div></div><style type="text/css">.sp-page-builder .page-content #section-buttons{padding-top:50px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) { .sp-page-builder .page-content #section-buttons{padding-top:12px;padding-right:38px;padding-bottom:12px;padding-left:38px;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;} }#column-id-1676371730488{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;box-shadow:0 0 0 0 #fff;}#column-wrap-id-1676371730488{margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;}#column-id-1676371730490{background-color:#005965;}#column-id-1676371730490 > .sppb-column-overlay {mix-blend-mode:multiply;}.sp-page-builder .page-content #fac{padding-top:0;padding-right:0;padding-bottom:0;padding-left:15px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;color:#000000;background-color:#e6e6e6;box-shadow:0 0 0 0 #ffffff;}#column-id-1604439223892{background-color:#f1f1f1;}.sp-page-builder .page-content #section-id-1604173137810{padding-top:0;padding-right:15px;padding-bottom:50px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1604173137811{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1604436569545{padding-top:0;padding-right:0px;padding-bottom:0;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1604436569546{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #contact-us{padding-right:20px;padding-bottom:0;padding-left:20px;margin-top:0px;background-color:#00272b;background-repeat:inherit;background-size:contain;background-attachment:inherit;background-position:50% 50%;}.sp-page-builder .page-content #contact-us{background-image:url(https://res.cloudinary.com/joomshaper/image/upload/v1582107175/placeholder.svg);}.sp-page-builder .page-content #contact-us.sppb-element-loaded {background-image:url(/images/svg/section-background-stripes2.svg);}.sp-page-builder .page-content #section-id-1602843315116{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1602843315117{box-shadow:0 0 0 0 #fff;}#column-id-1482796178{padding-top:50px;padding-right:0;padding-bottom:0;color:#b3b3b3;}#column-id-1482796185{padding-top:0px;padding-right:15px;padding-bottom:30px;color:#9e9e9e;}</style>	</div>
+</div>
+</div></div><span class="sp-copyright"> جميع الحقوق محفوظة  © 2023 <a href="http://citc.mans.edu.eg" target="_blank">مركز تقنية الإتصالات والمعلومات</a> - <a href="https://www.mans.edu.eg" target="_top">جامعة المنصورة</a> </span></div></div></div></footer><section id="sp-section-9"><div class="container"><div class="row"><div id="sp-position5" class="col-sm-12 col-md-12"><div class="sp-column"><ul class="jf_sidebuttons left">
+						<li>
+				<a href="/the-students" target="_self">
+											<i class="fa fa-book-reader" style="color: #003940;"></i>
+						الطلاب									</a>
+			</li>
+								<li>
+				<a href="/teaching-and-staff" target="_self">
+											<i class="fa fas fa-briefcase" style="color: #003940;"></i>
+						هيئة التدريس والعاملون									</a>
+			</li>
+								<li>
+				<a href="/graduate-studies" target="_self">
+											<i class="fa fas fa-user-graduate" style="color: #003940;"></i>
+						الخريجون والدراسات العليا									</a>
+			</li>
+								<li>
+				<a href="/visitors" target="_self">
+											<i class="fa fas fa-eye" style="color: #003940;"></i>
+						الزائرون									</a>
+			</li>
+								<li>
+				<a href="/?Itemid=2288" target="_self">
+											<i class="fa fas fa-question" style="color: #003940;"></i>
+						الأسئلة الشائعة									</a>
+			</li>
+											<li>
+				<a href="#contact-us" target="_self">
+											<i class="fa fas fa-link" style="color: #003940;"></i>
+						روابط هامة									</a>
+			</li>
+																																										</ul></div></div></div></div></section>            </div> <!-- /.body-innerwrapper -->
+        </div> <!-- /.body-wrapper -->
+        
+        <!-- Off Canvas Menu -->
+        <div class="offcanvas-menu">
+            <a href="#" class="close-offcanvas" aria-label="Close"><i class="fa fa-remove" aria-hidden="true"></i></a>
+            <div class="offcanvas-inner">
+                                    <div class="sp-module  "><div class="sp-module-content"><div class="mod-languages ">
+
+	<ul class="lang-inline">
+									<li class="" dir="ltr">
+			<a href="/en/">
+							
+				                <img src="/media/mod_languages/images/en.gif" data-toggle="tooltip" data-placement="bottom" title="EN" alt="EN" />
+                  
+						</a>
+			</li>
+								<li class="" dir="ltr">
+			<a href="/fr/">
+							
+				                <img src="/media/mod_languages/images/fr_fr.gif" data-toggle="tooltip" data-placement="bottom" title="FR" alt="FR" />
+                  
+						</a>
+			</li>
+				</ul>
+
+</div>
+</div></div><div class="sp-module "><div class="sp-module-content"><div class="search flex-search">
+	<form action="/" method="post">
+		<input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="text" size="80" placeholder="البحث..." />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="666" />
+	</form>
+</div>
+</div></div><div class="sp-module "><div class="sp-module-content"><div class="mod-sppagebuilder  sp-page-builder" data-module_id="471">
+	<div class="page-content">
+		<style type="text/css">.sp-page-builder .page-content #section-buttons{padding-top:50px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) { .sp-page-builder .page-content #section-buttons{padding-top:12px;padding-right:38px;padding-bottom:12px;padding-left:38px;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;} }#column-id-1676371730488{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;box-shadow:0 0 0 0 #fff;}#column-wrap-id-1676371730488{margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;}#column-id-1676371730490{background-color:#005965;}#column-id-1676371730490 > .sppb-column-overlay {mix-blend-mode:multiply;}</style>	</div>
+</div>
+</div></div><div class="sp-module "><div class="sp-module-content"><ul class="accordion-menu ">
+<li class="item-666 current active"><a href="/" > الرئيسية</a></li><li class="item-671 separator deeper parent"><a href="/" > عن الجامعة</a><span class="accordion-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-671-352"><i class="open-icon fas fa-chevron-down"></i></span><ul class="collapse" id="collapse-menu-671-352"><li class="item-676 separator deeper parent"><a href="/" > <i class="fa fa-history"></i> تاريخ وحقائق</a><span class="accordion-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-676-352"><i class="open-icon fas fa-chevron-down"></i></span><ul class="collapse" id="collapse-menu-676-352"><li class="item-713"><a href="/about/info/president-message" > كلمة رئيس الجامعة</a></li><li class="item-677"><a href="/about/info/history" > <i class="fa fa-history"></i> تاريخ الجامعة</a></li><li class="item-686"><a href="/about/info/facts-figures" > <i class="fa fa-id-card"></i> حقائق وأرقام</a></li><li class="item-1289"><a href="/about/info/university-vision" > <i class="fa fa-eye"></i> رؤية الجامعة</a></li><li class="item-1290"><a href="/about/info/university-mission" > <i class="fa fa-tasks"></i> رسالة الجامعة</a></li><li class="item-1291"><a href="/about/info/university-objectives" > <i class="fa fa-check"></i> أهداف الجامعة</a></li><li class="item-1739"><a href="/about/info/rank-of-the-university-among-the-universities-of-the-world" > <i class="fa fa-globe"></i> ترتيب الجامعة بين جامعات العالم</a></li></ul></li><li class="item-982 separator deeper parent"><a href="/" > <i class="fab fa-hornbill"></i> قطاعات الجامعة</a><span class="accordion-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-982-352"><i class="open-icon fas fa-chevron-down"></i></span><ul class="collapse" id="collapse-menu-982-352"><li class="item-2292"><a href="https://esa.mans.edu.eg/" target="_blank" > قطاع شئون التعليم والطلاب</a></li><li class="item-2293"><a href="https://pgsr.mans.edu.eg/" target="_blank" > قطاع شئون الدراسات العليا والبحوث</a></li><li class="item-2294"><a href="https://env.mans.edu.eg/" target="_blank" > قطاع خدمة المجتمع وتنمية البيئة</a></li><li class="item-2295"><a href="https://musg.mans.edu.eg/" target="_blank" > قطاع أمين عام الجامعة</a></li></ul></li><li class="item-2389 separator deeper parent"><a href="/" > <i class="fas fa-bars"></i> الادارات</a><span class="accordion-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-2389-352"><i class="open-icon fas fa-chevron-down"></i></span><ul class="collapse" id="collapse-menu-2389-352"><li class="item-2390"><a href="https://gmad.mans.edu.eg/" target="_blank" > الادارة العامة للتنظيم والادارة</a></li><li class="item-2391"><a href="https://ccm.mans.edu.eg/" target="_blank" > ادارة الاتصالات والمؤتمرات</a></li><li class="item-2392"><a href="https://isa.mans.edu.eg/" target="_blank" > ادارة الوافدين</a></li><li class="item-2393"><a href="https://mem.mans.edu.eg/" target="_blank" > ادارة التربية العسكرية</a></li></ul></li><li class="item-2386"><a href="/about/organizational-chart" > <i class="fas fa-table"></i> الهيكل التنظيمى للجامعة</a></li><li class="item-2197"><a href="/about/quality-policy" > <i class="fa fa-user"></i> سياسة الجودة</a></li><li class="item-1710"><a href="/about/privacy-policy" > <i class="fa fa-user"></i> سياسة الخصوصية</a></li><li class="item-688"><a href="/about/connect" > <i class="fa fa-envelope-open"></i> بيانات الاتصال</a></li><li class="item-1734"><a href="/about/ask-president" > <i class="fa fa-envelope-open"></i> اسأل رئيس الجامعة</a></li><li class="item-1656"><a href="/about/conferences-workshops-trainings" > <i class="fa fa-calendar"></i> المؤتمرات والأحداث</a></li><li class="item-2212"><a href="/about/sitemap" > <i class="pe pe-7s-anchor"></i> خريطة الموقع</a></li><li class="item-1865"><a href="/about/mansoura-university-vs-corona-virus" > الجامعة في مواجهة كورونا</a></li><li class="item-2409"><a href="/about/sustainable-development" > التنمية المستدامة</a></li></ul></li><li class="item-1956"><a href="#fac" > الكليات والبرامج النوعية</a></li><li class="item-706 separator deeper parent"><a href="/" > المراكز والوحدات</a><span class="accordion-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-706-352"><i class="open-icon fas fa-chevron-down"></i></span><ul class="collapse" id="collapse-menu-706-352"><li class="item-805 separator deeper parent"><a href="/" > مراكز التطوير بالجامعة</a><span class="accordion-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-805-352"><i class="open-icon fas fa-chevron-down"></i></span><ul class="collapse" id="collapse-menu-805-352"><li class="item-806"><a href="http://udc.mans.edu.eg/" target="_blank" > مركز تطوير الأداء الجامعي</a></li><li class="item-1867"><a href="http://muqac.mans.edu.eg/" target="_blank" > مركز ضمان الجودة وتقييم الأداء</a></li><li class="item-2201"><a href="https://mac.mans.edu.eg/" target="_blank" > مركز القياس والتقويم</a></li></ul></li><li class="item-791 separator deeper parent"><a href="/" > المراكز والوحدات الخاصة</a><span class="accordion-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-791-352"><i class="open-icon fas fa-chevron-down"></i></span><ul class="collapse" id="collapse-menu-791-352"><li class="item-790"><a href="http://citc.mans.edu.eg/" target="_blank" > مركز تقنية الاتصالات والمعلومات</a></li><li class="item-2287"><a href="http://ghcc.mans.edu.eg" target="_blank" > مركز دار الضيافة والؤتمرات</a></li><li class="item-796"><a href="http://mucd.mans.edu.eg" target="_blank" > مركز خدمات الأشخاص ذوى الإعاقة</a></li><li class="item-800"><a href="http://centers.mans.edu.eg/muiddsc/" target="_blank" > مركز المعلومات والتوثيق ودعم اتخاذ القرار</a></li><li class="item-1617"><a href="http://smesc.mans.edu.eg/" target="_blank" > مركز دعم الصناعات الصغيرة والمتوسطة</a></li><li class="item-1265"><a href="http://tico.mans.edu.eg/" target="_blank" > مكتب دعم الابتكار ونقل وتسويق التكنولوجيا</a></li><li class="item-2193"><a href="/centers-units/special-centers-and-units/unit-for-combating-violence-against-women" target="_blank" > وحدة مناهضة العنف ضد المرأة</a></li><li class="item-2384"><a href="/centers-units/special-centers-and-units/committee-to-confront-the-dangers-of-addiction-and-abuse" target="_blank" > لجنة مواجهة خطر الإدمان والتعاطي </a></li></ul></li><li class="item-1802 separator deeper parent"><a href="/" > أندية الجامعة</a><span class="accordion-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-1802-352"><i class="open-icon fas fa-chevron-down"></i></span><ul class="collapse" id="collapse-menu-1802-352"><li class="item-801"><a href="http://staffclub.mans.edu.eg" target="_blank" > نادى أعضاء هيئة التدريس</a></li><li class="item-1803"><a href="http://nileclub.mans.edu.eg/" target="_blank" > نادي النيل</a></li></ul></li><li class="item-1719 separator deeper parent"><a href="/" > مراكز التدريب والتدريس</a><span class="accordion-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-1719-352"><i class="open-icon fas fa-chevron-down"></i></span><ul class="collapse" id="collapse-menu-1719-352"><li class="item-797"><a href="https://mtcc.mans.edu.eg/" target="_blank" > مركز التدريب الاداري والاستشارات</a></li><li class="item-792"><a href="http://dtc.mans.edu.eg/" target="_blank" > مركز التدريب الرقمي</a></li><li class="item-803"><a href="http://espc.mans.edu.eg/" target="_blank" > مركز اللغة الانجليزية للأغراض الخاصة</a></li><li class="item-804"><a href="http://ccdc.mans.edu.eg/" target="_blank" > مركز رعاية وتنمية الطفولة</a></li><li class="item-1286"><a href="http://etc.mans.edu.eg" target="_blank" > مركز تكنولوجيا التعليم</a></li><li class="item-1835"><a href="http://mupsc.mans.edu.eg/" target="_blank" > مركز الخدمة العامة للغات والترجمة</a></li><li class="item-2405"><a href="https://gsc.mans.edu.eg/" target="_blank" > مركز الخدمة العامة بكلية التربية للطفولة المبكرة</a></li></ul></li><li class="item-1720 separator deeper parent"><a href="/" > مراكز ووحدات بحثية</a><span class="accordion-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-1720-352"><i class="open-icon fas fa-chevron-down"></i></span><ul class="collapse" id="collapse-menu-1720-352"><li class="item-794"><a href="http://centers.mans.edu.eg/water" target="_blank" > مركز مشروعات المياه والصرف الصحي والصناعي</a></li><li class="item-795"><a href="http://centers.mans.edu.eg/studies_center" target="_blank" > مركز الدراسات والبحوث والاستشارات الهندسية</a></li><li class="item-802"><a href="http://munano.mans.edu.eg/" target="_blank" > مركز جامعة المنصورة للنانوتكنولوجي</a></li><li class="item-1304"><a href="https://emunit.netlify.app" target="_blank" > وحدة الميكروسكوب الإلكتروني</a></li><li class="item-1962"><a href="http://www1.mans.edu.eg/FacMed/centers/merc/" target="_blank" > مركز البحوث الطبية التجريبية</a></li><li class="item-2407"><a href="https://muvp.mans.edu.eg" target="_blank" > مركز الأحافير الفقارية</a></li></ul></li></ul></li><li class="item-781 separator deeper parent"><a href="/" > الرعاية الصحية</a><span class="accordion-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-781-352"><i class="open-icon fas fa-chevron-down"></i></span><ul class="collapse" id="collapse-menu-781-352"><li class="item-2310 separator deeper parent"><a href="/" > المراكز الطبية</a><span class="accordion-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-2310-352"><i class="open-icon fas fa-chevron-down"></i></span><ul class="collapse" id="collapse-menu-2310-352"><li class="item-2312"><a href="https://cvsc.mans.edu.eg/" target="_blank" > مركز جراحة القلب والصدر وجراحة الأوعية الدموية</a></li><li class="item-2313"><a href="https://medfac.mans.edu.eg/index.php/centers-andunitis/centers/new-3centers" > مركز جراحة العظام</a></li><li class="item-2314"><a href="https://medfac.mans.edu.eg/index.php/centers-andunitis/centers/new-3centers" > مركز جراحة النساء والتوليد</a></li><li class="item-2316"><a href="https://medfac.mans.edu.eg/index.php/centers-andunitis/centers/new-3centers" > مركز أمراض المخ والأعصاب</a></li></ul></li><li class="item-1966 separator deeper parent"><a href="/" > المراكز الطبية</a><span class="accordion-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-1966-352"><i class="open-icon fas fa-chevron-down"></i></span><ul class="collapse" id="collapse-menu-1966-352"><li class="item-1960"><a href="http://www.unc.edu.eg/" target="_blank" > مركز الكلى والمسالك البولية</a></li><li class="item-1963"><a href="http://ophc.mans.edu.eg/" target="_blank" > مركز طب وجراحة العيون</a></li><li class="item-1961"><a href="http://gisc.mans.edu.eg" target="_blank" > مركز جراحة الجهاز الهضمي</a></li><li class="item-1964"><a href="http://ocmu.mans.edu.eg" target="_blank" > مركز الأورام</a></li><li class="item-2311"><a href="https://medfac.mans.edu.eg/index.php/centers-andunitis/centers/burns-plastic-center-ar" > مركز جراحة الحروق والتجميل</a></li></ul></li><li class="item-1967 separator deeper parent"><a href="/" > المستشفيات</a><span class="accordion-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-1967-352"><i class="open-icon fas fa-chevron-down"></i></span><ul class="collapse" id="collapse-menu-1967-352"><li class="item-784"><a href="http://muh.mans.edu.eg" target="_blank" > المستشفى الرئيسي</a></li><li class="item-785"><a href="http://emhospital.mans.edu.eg" target="_blank" > مستشفى الطوارئ</a></li><li class="item-786"><a href="http://smh.mans.edu.eg" target="_blank" > مستشفى الباطنة التخصصى</a></li><li class="item-787"><a href="http://much.mans.edu.eg" target="_blank" > مستشفى الأطفال الجامعى</a></li><li class="item-1637"><a href="http://mush.mans.edu.eg/" target="_blank" > مستشفى الطلبة الجامعى</a></li><li class="item-2309"><a href="#" > مستشفى النقاهة</a></li></ul></li></ul></li><li class="item-1950 separator deeper parent"><a href="/" > الأخبار والميديا</a><span class="accordion-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-1950-352"><i class="open-icon fas fa-chevron-down"></i></span><ul class="collapse" id="collapse-menu-1950-352"><li class="item-968">		<a  href="/mans-news-page"  > الأخبار</a></li><li class="item-969">		<a  href="/mansoura-news-archive"  > أرشيف الأخبار</a></li><li class="item-1925"><a href="/news-media/media" > ميديا الجامعة</a></li><li class="item-701"><a href="http://maps.mans.edu.eg/" > خريطة الجامعة</a></li></ul></li></ul>
+</div></div>
+                                </div> <!-- /.offcanvas-inner -->
+        </div> <!-- /.offcanvas-menu -->
+
+          <!-- Global Site Tag (gtag.js) - Google Analytics -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
+			<script>
+			  window.dataLayer = window.dataLayer || [];
+ 			 function gtag(){dataLayer.push(arguments);}
+ 			 gtag('js', new Date());
+
+ 			 gtag('config', 'UA-104521576-1');
+			</script>
+    
+        
+        <!-- Preloader -->
+        
+         
+          
+         <script>(function(d){var s = d.createElement("script");s.setAttribute("data-account", "oy732v0Stt");s.setAttribute("src", "https://cdn.userway.org/widget.js");(d.body || d.head).appendChild(s);})(document)</script><noscript>Please ensure Javascript is enabled for purposes of <a href="https://userway.org">website accessibility</a></noscript>
+    
+          
+           <script>
+          jQuery(function() {
+         jQuery('a[href*="https://www.icagenda.com"]').parents('div:eq(0)').remove();
+
+});
+      </script>
+           
+                  <span id="sexy_tooltip_title"><span class="the-tooltip top left black"><span class="tooltip_inner">Click to listen highlighted text!</span></span></span>
+        <span id="sexy_tooltip"><span class="the-tooltip bottom left dark-midnight-blue"><span class="tooltip_inner powered_by_3 powered_by">Powered By <a href="http://creative-solutions.net/joomla/gspeech" target="_blank" class="backlink_a">GSpeech</a></span></span></span>
+        <div id="sound_container" class="sound_div sound_div_basic size_1 speaker_1" title="" style=""><div id="sound_text"></div>
+        </div><div id="sound_audio"></div>
+        <script type="text/javascript">
+            var players = new Array(),
+                blink_timer = new Array(),
+                rotate_timer = new Array(),
+                lang_identifier = 'ar',
+                selected_txt = '',
+                sound_container_clicked = false,
+                sound_container_visible = true,
+                blinking_enable = true,
+                basic_plg_enable = true,
+                pro_container_clicked = false,
+                streamerphp_folder = 'https://www.mans.edu.eg/plugins/system/gspeech/includes/',
+                translation_tool = 'g',
+                //translation_audio_type = 'audio/x-wav',
+                translation_audio_type = 'audio/mpeg',
+                speech_text_length = 100,
+                blink_start_enable_pro = true,
+                createtriggerspeechcount = 0,
+                speechtimeoutfinal = 0,
+                speechtxt = '',
+                userRegistered = "0",
+                gspeech_bcp = ["#ffffff","#ffffff","#ffffff","#ffffff","#ffffff"],
+                gspeech_cp = ["#111111","#3284c7","#fc0000","#0d7300","#ea7d00"],
+                gspeech_bca = ["#545454","#3284c7","#ff3333","#0f8901","#ea7d00"],
+                gspeech_ca = ["#ffffff","#ffffff","#ffffff","#ffffff","#ffffff"],
+                gspeech_spop = ["90","80","90","90","90"],
+                gspeech_spoa = ["100","100","100","100","100"],
+                gspeech_animation_time = ["400","400","400","400","400"];
+        </script>
+        <!--[if (gte IE 6)&(lte IE 8)]>
+        <script defer src="https://www.mans.edu.eg/plugins/system/gspeech/includes/js/nwmatcher-1.2.4-min.js"></script>
+        <script defer src="https://www.mans.edu.eg/plugins/system/gspeech/includes/js/selectivizr-min.js"></script>
+        <![endif]-->
+        <style type="text/css">.gspeech_style_,.gspeech_style_1{background-color:#ffffff;color:#111111;}.gspeech_style_2{background-color:#ffffff;color:#3284c7;}.gspeech_style_3{background-color:#ffffff;color:#fc0000;}.gspeech_style_4{background-color:#ffffff;color:#0d7300;}.gspeech_style_5{background-color:#ffffff;color:#ea7d00;}</style>
+        <style type="text/css">.gspeech_style_.active,.gspeech_style_1.active{background-color:#545454 !important;color:#ffffff !important;}.gspeech_style_2.active{background-color:#3284c7 !important;color:#ffffff !important;}.gspeech_style_3.active{background-color:#ff3333 !important;color:#ffffff !important;}.gspeech_style_4.active{background-color:#0f8901 !important;color:#ffffff !important;}.gspeech_style_5.active{background-color:#ea7d00 !important;color:#ffffff !important;}</style>
+        <style type="text/css">.sound_div_,.sound_div_1{opacity:0.9;filter: alpha(opacity = 90)}.sound_div_2{opacity:0.8;filter: alpha(opacity = 80)}.sound_div_3{opacity:0.9;filter: alpha(opacity = 90)}.sound_div_4{opacity:0.9;filter: alpha(opacity = 90)}.sound_div_5{opacity:0.9;filter: alpha(opacity = 90)}</style>
+        <style type="text/css">
+           ::selection {
+                background: #3284c7;
+                color: #ffffff;
+            }
+            ::-moz-selection {
+                background: #3284c7;
+                color: #ffffff;
+            }
+        </style></body>
+</html>
